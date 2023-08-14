@@ -1,0 +1,2552 @@
+{
+   "status": 200,
+   "data": {
+   "build": "++Fortnite+Release-25.30-CL-26867995-Windows",
+   "previousBuild": "++Fortnite+Release-25.20-CL-26629111-Windows",
+   "hash": "126c0c880adaeee81be30b6afa9d65386c2877aa",
+   "date": "2023-08-08T08:00:00Z",
+   "lastAddition": "2023-08-14T00:00:00Z",
+   "items": [
+   {
+   "id": "Backpack_BirdNest",
+   "name": "Oso boxeador",
+   "description": "Una maldición en forma de oso que Yuji utiliza en sus entrenamientos.",
+   "type": {
+   "value": "backpack",
+   "displayValue": "Accesorio mochilero",
+   "backendValue": "AthenaBackpack"
+   },
+   "rarity": {
+   "value": "epic",
+   "displayValue": "Épico",
+   "backendValue": "EFortRarity::Epic"
+   },
+   "series": null,
+   "set": {
+   "value": "Jujutsu Kaisen",
+   "text": "Parte del conjunto Jujutsu Kaisen.",
+   "backendValue": "CleanWard"
+   },
+   "introduction": {
+   "chapter": "4",
+   "season": "3",
+   "text": "Introducido en Capítulo 4 - Temporada 3.",
+   "backendValue": 25
+   },
+   "images": {
+   "smallIcon": "https://fortnite-api.com/images/cosmetics/br/backpack_birdnest/smallicon.png",
+   "icon": "https://fortnite-api.com/images/cosmetics/br/backpack_birdnest/icon.png",
+   "featured": "https://fortnite-api.com/images/cosmetics/br/backpack_birdnest/featured.png",
+   "other": null
+   },
+   "variants": null,
+   "searchTags": null,
+   "gameplayTags": [
+   "Cosmetics.Set.CleanWard",
+   "Cosmetics.Filter.Season.25",
+   "Cosmetics.UserFacingFlags.Reactive"
+   ],
+   "metaTags": null,
+   "showcaseVideo": null,
+   "dynamicPakId": null,
+   "displayAssetPath": null,
+   "definitionPath": null,
+   "path": "FortniteGame/Content/Athena/Items/Cosmetics/Backpacks/Backpack_BirdNest",
+   "added": "2023-08-11T14:36:17Z",
+   "shopHistory": null
+   },
+   {
+   "id": "Backpack_BirdNestGreen",
+   "name": "Pozo sin fondo conocido",
+   "description": "Una técnica que combina a los shikigamis Sapo y Nue.",
+   "type": {
+   "value": "backpack",
+   "displayValue": "Accesorio mochilero",
+   "backendValue": "AthenaBackpack"
+   },
+   "rarity": {
+   "value": "rare",
+   "displayValue": "Raro",
+   "backendValue": "EFortRarity::Rare"
+   },
+   "series": null,
+   "set": {
+   "value": "Jujutsu Kaisen",
+   "text": "Parte del conjunto Jujutsu Kaisen.",
+   "backendValue": "CleanWard"
+   },
+   "introduction": {
+   "chapter": "4",
+   "season": "3",
+   "text": "Introducido en Capítulo 4 - Temporada 3.",
+   "backendValue": 25
+   },
+   "images": {
+   "smallIcon": "https://fortnite-api.com/images/cosmetics/br/backpack_birdnestgreen/smallicon.png",
+   "icon": "https://fortnite-api.com/images/cosmetics/br/backpack_birdnestgreen/icon.png",
+   "featured": "https://fortnite-api.com/images/cosmetics/br/backpack_birdnestgreen/featured.png",
+   "other": null
+   },
+   "variants": null,
+   "searchTags": null,
+   "gameplayTags": [
+   "Cosmetics.Set.CleanWard",
+   "Cosmetics.Filter.Season.25"
+   ],
+   "metaTags": null,
+   "showcaseVideo": null,
+   "dynamicPakId": null,
+   "displayAssetPath": null,
+   "definitionPath": null,
+   "path": "FortniteGame/Content/Athena/Items/Cosmetics/Backpacks/Backpack_BirdNestGreen",
+   "added": "2023-08-11T14:36:17Z",
+   "shopHistory": null
+   },
+   {
+   "id": "Backpack_BrightShimmer",
+   "name": "Saquito saltarín",
+   "description": "Salta hasta que te duelan las piernas.",
+   "type": {
+   "value": "backpack",
+   "displayValue": "Accesorio mochilero",
+   "backendValue": "AthenaBackpack"
+   },
+   "rarity": {
+   "value": "rare",
+   "displayValue": "Raro",
+   "backendValue": "EFortRarity::Rare"
+   },
+   "series": null,
+   "set": {
+   "value": "Reina de la playa",
+   "text": "Parte del conjunto Reina de la playa.",
+   "backendValue": "QueenOcean"
+   },
+   "introduction": {
+   "chapter": "4",
+   "season": "3",
+   "text": "Introducido en Capítulo 4 - Temporada 3.",
+   "backendValue": 25
+   },
+   "images": {
+   "smallIcon": "https://fortnite-api.com/images/cosmetics/br/backpack_brightshimmer/smallicon.png",
+   "icon": "https://fortnite-api.com/images/cosmetics/br/backpack_brightshimmer/icon.png",
+   "featured": null,
+   "other": null
+   },
+   "variants": null,
+   "searchTags": null,
+   "gameplayTags": [
+   "Cosmetics.Filter.Season.25",
+   "Cosmetics.Source.ItemShop",
+   "Cosmetics.Set.QueenOcean"
+   ],
+   "metaTags": null,
+   "showcaseVideo": null,
+   "dynamicPakId": null,
+   "itemPreviewHeroPath": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/Character_BrightShimmer",
+   "displayAssetPath": null,
+   "definitionPath": null,
+   "path": "FortniteGame/Content/Athena/Items/Cosmetics/Backpacks/Backpack_BrightShimmer",
+   "added": "2023-08-11T14:36:17Z",
+   "shopHistory": null
+   },
+   {
+   "id": "Backpack_FloodPlain",
+   "name": "Dulce deleite",
+   "description": "Coge uno, no te cortes.",
+   "type": {
+   "value": "backpack",
+   "displayValue": "Accesorio mochilero",
+   "backendValue": "AthenaBackpack"
+   },
+   "rarity": {
+   "value": "epic",
+   "displayValue": "Épico",
+   "backendValue": "EFortRarity::Epic"
+   },
+   "series": null,
+   "set": {
+   "value": "Jujutsu Kaisen",
+   "text": "Parte del conjunto Jujutsu Kaisen.",
+   "backendValue": "CleanWard"
+   },
+   "introduction": {
+   "chapter": "4",
+   "season": "3",
+   "text": "Introducido en Capítulo 4 - Temporada 3.",
+   "backendValue": 25
+   },
+   "images": {
+   "smallIcon": "https://fortnite-api.com/images/cosmetics/br/backpack_floodplain/smallicon.png",
+   "icon": "https://fortnite-api.com/images/cosmetics/br/backpack_floodplain/icon.png",
+   "featured": null,
+   "other": null
+   },
+   "variants": null,
+   "searchTags": null,
+   "gameplayTags": [
+   "Cosmetics.Filter.Season.25",
+   "Cosmetics.Set.CleanWard",
+   "Cosmetics.Source.ItemShop"
+   ],
+   "metaTags": null,
+   "showcaseVideo": null,
+   "dynamicPakId": null,
+   "itemPreviewHeroPath": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/Character_FloodPlain",
+   "displayAssetPath": null,
+   "definitionPath": null,
+   "path": "FortniteGame/Content/Athena/Items/Cosmetics/Backpacks/Backpack_FloodPlain",
+   "added": "2023-08-08T08:00:00Z",
+   "shopHistory": [
+   "2023-08-08T00:00:00Z",
+   "2023-08-09T00:00:00Z",
+   "2023-08-10T00:00:00Z",
+   "2023-08-11T00:00:00Z",
+   "2023-08-12T00:00:00Z",
+   "2023-08-13T00:00:00Z",
+   "2023-08-14T00:00:00Z"
+   ]
+   },
+   {
+   "id": "Backpack_FossilMech",
+   "name": "Dientec",
+   "description": "Descifra cualquier archivo encriptado.",
+   "type": {
+   "value": "backpack",
+   "displayValue": "Accesorio mochilero",
+   "backendValue": "AthenaBackpack"
+   },
+   "rarity": {
+   "value": "rare",
+   "displayValue": "Raro",
+   "backendValue": "EFortRarity::Rare"
+   },
+   "series": null,
+   "set": {
+   "value": "Código de extinción",
+   "text": "Parte del conjunto Código de extinción.",
+   "backendValue": "DeathCipher"
+   },
+   "introduction": {
+   "chapter": "4",
+   "season": "3",
+   "text": "Introducido en Capítulo 4 - Temporada 3.",
+   "backendValue": 25
+   },
+   "images": {
+   "smallIcon": "https://fortnite-api.com/images/cosmetics/br/backpack_fossilmech/smallicon.png",
+   "icon": "https://fortnite-api.com/images/cosmetics/br/backpack_fossilmech/icon.png",
+   "featured": null,
+   "other": null
+   },
+   "variants": null,
+   "searchTags": null,
+   "gameplayTags": [
+   "Cosmetics.Filter.Season.25",
+   "Cosmetics.Set.DeathCipher"
+   ],
+   "metaTags": null,
+   "showcaseVideo": null,
+   "dynamicPakId": null,
+   "itemPreviewHeroPath": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/Character_FossilMech",
+   "displayAssetPath": null,
+   "definitionPath": null,
+   "path": "FortniteGame/Content/Athena/Items/Cosmetics/Backpacks/Backpack_FossilMech",
+   "added": "2023-08-11T14:36:17Z",
+   "shopHistory": null
+   },
+   {
+   "id": "Backpack_HornettaVine",
+   "name": "Aguijón luminoso",
+   "description": "Que te ilumine en la caza.",
+   "type": {
+   "value": "backpack",
+   "displayValue": "Accesorio mochilero",
+   "backendValue": "AthenaBackpack"
+   },
+   "rarity": {
+   "value": "rare",
+   "displayValue": "Raro",
+   "backendValue": "EFortRarity::Rare"
+   },
+   "series": null,
+   "set": {
+   "value": "Agente del inframundo",
+   "text": "Parte del conjunto Agente del inframundo.",
+   "backendValue": "MobAgent"
+   },
+   "introduction": {
+   "chapter": "4",
+   "season": "3",
+   "text": "Introducido en Capítulo 4 - Temporada 3.",
+   "backendValue": 25
+   },
+   "images": {
+   "smallIcon": "https://fortnite-api.com/images/cosmetics/br/backpack_hornettavine/smallicon.png",
+   "icon": "https://fortnite-api.com/images/cosmetics/br/backpack_hornettavine/icon.png",
+   "featured": null,
+   "other": null
+   },
+   "variants": null,
+   "searchTags": null,
+   "gameplayTags": [
+   "Cosmetics.Filter.Season.25",
+   "Cosmetics.Source.ItemShop",
+   "Cosmetics.Set.MobAgent"
+   ],
+   "metaTags": null,
+   "showcaseVideo": null,
+   "dynamicPakId": null,
+   "itemPreviewHeroPath": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/Character_HornettaVine",
+   "displayAssetPath": null,
+   "definitionPath": null,
+   "path": "FortniteGame/Content/Athena/Items/Cosmetics/Backpacks/Backpack_HornettaVine",
+   "added": "2023-08-11T14:36:17Z",
+   "shopHistory": [
+   "2023-08-13T00:00:00Z"
+   ]
+   },
+   {
+   "id": "Backpack_RoosterMelt",
+   "name": "Muñeco de paja emblemático",
+   "description": "Para la técnica innata de Nobara.",
+   "type": {
+   "value": "backpack",
+   "displayValue": "Accesorio mochilero",
+   "backendValue": "AthenaBackpack"
+   },
+   "rarity": {
+   "value": "epic",
+   "displayValue": "Épico",
+   "backendValue": "EFortRarity::Epic"
+   },
+   "series": null,
+   "set": {
+   "value": "Jujutsu Kaisen",
+   "text": "Parte del conjunto Jujutsu Kaisen.",
+   "backendValue": "CleanWard"
+   },
+   "introduction": {
+   "chapter": "4",
+   "season": "3",
+   "text": "Introducido en Capítulo 4 - Temporada 3.",
+   "backendValue": 25
+   },
+   "images": {
+   "smallIcon": "https://fortnite-api.com/images/cosmetics/br/backpack_roostermelt/smallicon.png",
+   "icon": "https://fortnite-api.com/images/cosmetics/br/backpack_roostermelt/icon.png",
+   "featured": null,
+   "other": null
+   },
+   "variants": null,
+   "searchTags": null,
+   "gameplayTags": [
+   "Cosmetics.Filter.Season.25",
+   "Cosmetics.Source.ItemShop",
+   "Cosmetics.Set.CleanWard"
+   ],
+   "metaTags": null,
+   "showcaseVideo": null,
+   "dynamicPakId": null,
+   "itemPreviewHeroPath": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/Character_RoosterMelt",
+   "displayAssetPath": null,
+   "definitionPath": null,
+   "path": "FortniteGame/Content/Athena/Items/Cosmetics/Backpacks/Backpack_RoosterMelt",
+   "added": "2023-08-08T08:00:00Z",
+   "shopHistory": [
+   "2023-08-08T00:00:00Z",
+   "2023-08-09T00:00:00Z",
+   "2023-08-10T00:00:00Z",
+   "2023-08-11T00:00:00Z",
+   "2023-08-12T00:00:00Z",
+   "2023-08-13T00:00:00Z",
+   "2023-08-14T00:00:00Z"
+   ]
+   },
+   {
+   "id": "Backpack_VectorSpark",
+   "name": "Kon",
+   "description": "Un shikigami en forma de perro.",
+   "type": {
+   "value": "backpack",
+   "displayValue": "Accesorio mochilero",
+   "backendValue": "AthenaBackpack"
+   },
+   "rarity": {
+   "value": "epic",
+   "displayValue": "Épico",
+   "backendValue": "EFortRarity::Epic"
+   },
+   "series": null,
+   "set": {
+   "value": "Jujutsu Kaisen",
+   "text": "Parte del conjunto Jujutsu Kaisen.",
+   "backendValue": "CleanWard"
+   },
+   "introduction": {
+   "chapter": "4",
+   "season": "3",
+   "text": "Introducido en Capítulo 4 - Temporada 3.",
+   "backendValue": 25
+   },
+   "images": {
+   "smallIcon": "https://fortnite-api.com/images/cosmetics/br/backpack_vectorspark/smallicon.png",
+   "icon": "https://fortnite-api.com/images/cosmetics/br/backpack_vectorspark/icon.png",
+   "featured": null,
+   "other": null
+   },
+   "variants": null,
+   "searchTags": null,
+   "gameplayTags": [
+   "Cosmetics.Filter.Season.25",
+   "Cosmetics.Source.ItemShop",
+   "Cosmetics.Set.CleanWard"
+   ],
+   "metaTags": null,
+   "showcaseVideo": null,
+   "dynamicPakId": null,
+   "itemPreviewHeroPath": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/Character_VectorSpark",
+   "displayAssetPath": null,
+   "definitionPath": null,
+   "path": "FortniteGame/Content/Athena/Items/Cosmetics/Backpacks/Backpack_VectorSpark",
+   "added": "2023-08-08T08:00:00Z",
+   "shopHistory": [
+   "2023-08-08T00:00:00Z",
+   "2023-08-09T00:00:00Z",
+   "2023-08-10T00:00:00Z",
+   "2023-08-11T00:00:00Z",
+   "2023-08-12T00:00:00Z",
+   "2023-08-13T00:00:00Z",
+   "2023-08-14T00:00:00Z"
+   ]
+   },
+   {
+   "id": "Character_BirdNest",
+   "name": "Yuji Itadori",
+   "description": "Hacía miles de años que no se veía un talento como el suyo.",
+   "type": {
+   "value": "outfit",
+   "displayValue": "Traje",
+   "backendValue": "AthenaCharacter"
+   },
+   "rarity": {
+   "value": "epic",
+   "displayValue": "Épico",
+   "backendValue": "EFortRarity::Epic"
+   },
+   "series": null,
+   "set": {
+   "value": "Jujutsu Kaisen",
+   "text": "Parte del conjunto Jujutsu Kaisen.",
+   "backendValue": "CleanWard"
+   },
+   "introduction": {
+   "chapter": "4",
+   "season": "3",
+   "text": "Introducido en Capítulo 4 - Temporada 3.",
+   "backendValue": 25
+   },
+   "images": {
+   "smallIcon": "https://fortnite-api.com/images/cosmetics/br/character_birdnest/smallicon.png",
+   "icon": "https://fortnite-api.com/images/cosmetics/br/character_birdnest/icon.png",
+   "featured": "https://fortnite-api.com/images/cosmetics/br/character_birdnest/featured.png",
+   "other": null
+   },
+   "variants": null,
+   "searchTags": null,
+   "gameplayTags": [
+   "SoundLibrary.ID.StepType.ShoesSneakers",
+   "SoundLibrary.ID.ClothingType.Generic",
+   "SoundLibrary.ID.HandType.Bare",
+   "Cosmetics.Filter.Season.25",
+   "Cosmetics.Set.CleanWard"
+   ],
+   "metaTags": null,
+   "showcaseVideo": null,
+   "dynamicPakId": null,
+   "displayAssetPath": null,
+   "definitionPath": "FortniteGame/Content/Athena/Heroes/Hero_BirdNest",
+   "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/Character_BirdNest",
+   "added": "2023-08-11T14:36:17Z",
+   "shopHistory": null
+   },
+   {
+   "id": "Character_BirdNestNavy",
+   "name": "Yuji Itadori urbano",
+   "description": "Concentrado y listo para el entrenamiento.",
+   "type": {
+   "value": "outfit",
+   "displayValue": "Traje",
+   "backendValue": "AthenaCharacter"
+   },
+   "rarity": {
+   "value": "epic",
+   "displayValue": "Épico",
+   "backendValue": "EFortRarity::Epic"
+   },
+   "series": null,
+   "set": {
+   "value": "Jujutsu Kaisen",
+   "text": "Parte del conjunto Jujutsu Kaisen.",
+   "backendValue": "CleanWard"
+   },
+   "introduction": {
+   "chapter": "4",
+   "season": "3",
+   "text": "Introducido en Capítulo 4 - Temporada 3.",
+   "backendValue": 25
+   },
+   "images": {
+   "smallIcon": "https://fortnite-api.com/images/cosmetics/br/character_birdnestnavy/smallicon.png",
+   "icon": "https://fortnite-api.com/images/cosmetics/br/character_birdnestnavy/icon.png",
+   "featured": null,
+   "other": null
+   },
+   "variants": null,
+   "searchTags": null,
+   "gameplayTags": [
+   "SoundLibrary.ID.StepType.ShoesSneakers",
+   "SoundLibrary.ID.ClothingType.Generic",
+   "SoundLibrary.ID.HandType.Bare",
+   "Cosmetics.Filter.Season.25",
+   "Cosmetics.Set.CleanWard"
+   ],
+   "metaTags": null,
+   "showcaseVideo": null,
+   "dynamicPakId": null,
+   "displayAssetPath": null,
+   "definitionPath": "FortniteGame/Content/Athena/Heroes/Hero_BirdNestNavy",
+   "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/Character_BirdNestNavy",
+   "added": "2023-08-11T14:36:17Z",
+   "shopHistory": null
+   },
+   {
+   "id": "Character_BrightShimmer",
+   "name": "Lee Armonía",
+   "description": "Hazte con la victoria como si nada.",
+   "type": {
+   "value": "outfit",
+   "displayValue": "Traje",
+   "backendValue": "AthenaCharacter"
+   },
+   "rarity": {
+   "value": "rare",
+   "displayValue": "Raro",
+   "backendValue": "EFortRarity::Rare"
+   },
+   "series": null,
+   "set": {
+   "value": "Reina de la playa",
+   "text": "Parte del conjunto Reina de la playa.",
+   "backendValue": "QueenOcean"
+   },
+   "introduction": {
+   "chapter": "4",
+   "season": "3",
+   "text": "Introducido en Capítulo 4 - Temporada 3.",
+   "backendValue": 25
+   },
+   "images": {
+   "smallIcon": "https://fortnite-api.com/images/cosmetics/br/character_brightshimmer/smallicon.png",
+   "icon": "https://fortnite-api.com/images/cosmetics/br/character_brightshimmer/icon.png",
+   "featured": "https://fortnite-api.com/images/cosmetics/br/character_brightshimmer/featured.png",
+   "other": null
+   },
+   "variants": [
+   {
+   "channel": "Parts",
+   "type": "estilo",
+   "options": [
+   {
+   "tag": "Stage1",
+   "name": "Lee Armonía",
+   "image": "https://fortnite-api.com/images/cosmetics/br/character_brightshimmer/variants/parts/stage1.png"
+   },
+   {
+   "tag": "Stage2",
+   "name": "informal",
+   "image": "https://fortnite-api.com/images/cosmetics/br/character_brightshimmer/variants/parts/stage2.png"
+   }
+   ]
+   }
+   ],
+   "searchTags": null,
+   "gameplayTags": [
+   "SoundLibrary.ID.StepType.ShoesDress",
+   "SoundLibrary.ID.ClothingType.Generic",
+   "SoundLibrary.ID.HandType.Bare",
+   "Cosmetics.Filter.Season.25",
+   "Cosmetics.UserFacingFlags.HasVariants",
+   "Cosmetics.Set.QueenOcean",
+   "Cosmetics.Source.ItemShop"
+   ],
+   "metaTags": [
+   "Cosmetics.Emote.CharacterGroup.Skirts"
+   ],
+   "showcaseVideo": null,
+   "dynamicPakId": null,
+   "displayAssetPath": null,
+   "definitionPath": "FortniteGame/Content/Athena/Heroes/Hero_BrightShimmer",
+   "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/Character_BrightShimmer",
+   "added": "2023-08-11T14:36:17Z",
+   "shopHistory": null
+   },
+   {
+   "id": "Character_FloodPlain",
+   "name": "Satoru Gojo",
+   "description": "Reconocido por ser el hechicero más fuerte de la época moderna.",
+   "type": {
+   "value": "outfit",
+   "displayValue": "Traje",
+   "backendValue": "AthenaCharacter"
+   },
+   "rarity": {
+   "value": "epic",
+   "displayValue": "Épico",
+   "backendValue": "EFortRarity::Epic"
+   },
+   "series": null,
+   "set": {
+   "value": "Jujutsu Kaisen",
+   "text": "Parte del conjunto Jujutsu Kaisen.",
+   "backendValue": "CleanWard"
+   },
+   "introduction": {
+   "chapter": "4",
+   "season": "3",
+   "text": "Introducido en Capítulo 4 - Temporada 3.",
+   "backendValue": 25
+   },
+   "images": {
+   "smallIcon": "https://fortnite-api.com/images/cosmetics/br/character_floodplain/smallicon.png",
+   "icon": "https://fortnite-api.com/images/cosmetics/br/character_floodplain/icon.png",
+   "featured": "https://fortnite-api.com/images/cosmetics/br/character_floodplain/featured.png",
+   "other": null
+   },
+   "variants": [
+   {
+   "channel": "Parts",
+   "type": "estilo",
+   "options": [
+   {
+   "tag": "Stage1",
+   "name": "Satoru Gojo",
+   "image": "https://fortnite-api.com/images/cosmetics/br/character_floodplain/variants/parts/stage1.png"
+   },
+   {
+   "tag": "Stage2",
+   "name": "Seis ojos",
+   "image": "https://fortnite-api.com/images/cosmetics/br/character_floodplain/variants/parts/stage2.png"
+   }
+   ]
+   }
+   ],
+   "searchTags": null,
+   "gameplayTags": [
+   "SoundLibrary.ID.StepType.ShoesDress",
+   "SoundLibrary.ID.ClothingType.Generic",
+   "SoundLibrary.ID.HandType.Bare",
+   "Cosmetics.UserFacingFlags.HasVariants",
+   "Cosmetics.Filter.Season.25",
+   "Cosmetics.Set.CleanWard"
+   ],
+   "metaTags": null,
+   "showcaseVideo": null,
+   "dynamicPakId": null,
+   "displayAssetPath": null,
+   "definitionPath": "FortniteGame/Content/Athena/Heroes/Hero_FloodPlain",
+   "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/Character_FloodPlain",
+   "added": "2023-08-08T08:00:00Z",
+   "shopHistory": [
+   "2023-08-08T00:00:00Z",
+   "2023-08-09T00:00:00Z",
+   "2023-08-10T00:00:00Z",
+   "2023-08-11T00:00:00Z",
+   "2023-08-12T00:00:00Z",
+   "2023-08-13T00:00:00Z",
+   "2023-08-14T00:00:00Z"
+   ]
+   },
+   {
+   "id": "Character_FossilMech",
+   "name": "Robosaurio",
+   "description": "Dales una paliza jurásica.",
+   "type": {
+   "value": "outfit",
+   "displayValue": "Personaje",
+   "backendValue": "AthenaCharacter"
+   },
+   "rarity": {
+   "value": "rare",
+   "displayValue": "Raro",
+   "backendValue": "EFortRarity::Rare"
+   },
+   "series": null,
+   "set": {
+   "value": "Código de extinción",
+   "text": "Parte del conjunto Código de extinción.",
+   "backendValue": "DeathCipher"
+   },
+   "introduction": {
+   "chapter": "4",
+   "season": "3",
+   "text": "Introducido en Capítulo 4 - Temporada 3.",
+   "backendValue": 25
+   },
+   "images": {
+   "smallIcon": "https://fortnite-api.com/images/cosmetics/br/character_fossilmech/smallicon.png",
+   "icon": "https://fortnite-api.com/images/cosmetics/br/character_fossilmech/icon.png",
+   "featured": null,
+   "other": null
+   },
+   "variants": null,
+   "searchTags": null,
+   "gameplayTags": [
+   "SoundLibrary.ID.StepType.BootsMetal",
+   "SoundLibrary.ID.ClothingType.Generic",
+   "SoundLibrary.ID.HandType.Robot",
+   "Cosmetics.Filter.Season.25",
+   "Cosmetics.Set.DeathCipher"
+   ],
+   "metaTags": null,
+   "showcaseVideo": null,
+   "dynamicPakId": null,
+   "displayAssetPath": null,
+   "definitionPath": "FortniteGame/Content/Athena/Heroes/Hero_FossilMech",
+   "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/Character_FossilMech",
+   "added": "2023-08-11T14:36:17Z",
+   "shopHistory": null
+   },
+   {
+   "id": "Character_HornettaVine",
+   "name": "Adelfa",
+   "description": "Una astuta merodeadora de las cavernas.",
+   "type": {
+   "value": "outfit",
+   "displayValue": "Traje",
+   "backendValue": "AthenaCharacter"
+   },
+   "rarity": {
+   "value": "rare",
+   "displayValue": "Raro",
+   "backendValue": "EFortRarity::Rare"
+   },
+   "series": null,
+   "set": {
+   "value": "Agente del inframundo",
+   "text": "Parte del conjunto Agente del inframundo.",
+   "backendValue": "MobAgent"
+   },
+   "introduction": {
+   "chapter": "4",
+   "season": "3",
+   "text": "Introducido en Capítulo 4 - Temporada 3.",
+   "backendValue": 25
+   },
+   "images": {
+   "smallIcon": "https://fortnite-api.com/images/cosmetics/br/character_hornettavine/smallicon.png",
+   "icon": "https://fortnite-api.com/images/cosmetics/br/character_hornettavine/icon.png",
+   "featured": "https://fortnite-api.com/images/cosmetics/br/character_hornettavine/featured.png",
+   "other": null
+   },
+   "variants": [
+   {
+   "channel": "Parts",
+   "type": "Máscara",
+   "options": [
+   {
+   "tag": "Stage1",
+   "name": "Sí",
+   "image": "https://fortnite-api.com/images/cosmetics/br/character_hornettavine/variants/parts/stage1.png"
+   },
+   {
+   "tag": "Stage2",
+   "name": "No",
+   "image": "https://fortnite-api.com/images/cosmetics/br/character_hornettavine/variants/parts/stage2.png"
+   }
+   ]
+   }
+   ],
+   "searchTags": null,
+   "gameplayTags": [
+   "SoundLibrary.ID.StepType.BootsHeeled",
+   "SoundLibrary.ID.ClothingType.Generic",
+   "SoundLibrary.ID.HandType.Glove",
+   "Cosmetics.Filter.Season.25",
+   "Cosmetics.UserFacingFlags.HasVariants",
+   "Cosmetics.Set.MobAgent"
+   ],
+   "metaTags": null,
+   "showcaseVideo": "8ITzjSEq93o",
+   "dynamicPakId": null,
+   "displayAssetPath": null,
+   "definitionPath": "FortniteGame/Content/Athena/Heroes/Hero_HornettaVine",
+   "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/Character_HornettaVine",
+   "added": "2023-08-11T14:36:17Z",
+   "shopHistory": [
+   "2023-08-13T00:00:00Z"
+   ]
+   },
+   {
+   "id": "Character_RoosterMelt",
+   "name": "Nobara Kugisaki",
+   "description": "Una estudiante de hechicería resuelta que vino a la ciudad desde el campo.",
+   "type": {
+   "value": "outfit",
+   "displayValue": "Traje",
+   "backendValue": "AthenaCharacter"
+   },
+   "rarity": {
+   "value": "epic",
+   "displayValue": "Épico",
+   "backendValue": "EFortRarity::Epic"
+   },
+   "series": null,
+   "set": {
+   "value": "Jujutsu Kaisen",
+   "text": "Parte del conjunto Jujutsu Kaisen.",
+   "backendValue": "CleanWard"
+   },
+   "introduction": {
+   "chapter": "4",
+   "season": "3",
+   "text": "Introducido en Capítulo 4 - Temporada 3.",
+   "backendValue": 25
+   },
+   "images": {
+   "smallIcon": "https://fortnite-api.com/images/cosmetics/br/character_roostermelt/smallicon.png",
+   "icon": "https://fortnite-api.com/images/cosmetics/br/character_roostermelt/icon.png",
+   "featured": "https://fortnite-api.com/images/cosmetics/br/character_roostermelt/featured.png",
+   "other": null
+   },
+   "variants": null,
+   "searchTags": null,
+   "gameplayTags": [
+   "SoundLibrary.ID.StepType.ShoesDress",
+   "SoundLibrary.ID.ClothingType.Generic",
+   "SoundLibrary.ID.HandType.Bare",
+   "Cosmetics.Filter.Season.25",
+   "Cosmetics.Source.ItemShop",
+   "Cosmetics.Set.CleanWard"
+   ],
+   "metaTags": [
+   "Cosmetics.Emote.CharacterGroup.Skirts"
+   ],
+   "showcaseVideo": null,
+   "dynamicPakId": null,
+   "displayAssetPath": null,
+   "definitionPath": "FortniteGame/Content/Athena/Heroes/Hero_RoosterMelt",
+   "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/Character_RoosterMelt",
+   "added": "2023-08-08T08:00:00Z",
+   "shopHistory": [
+   "2023-08-08T00:00:00Z",
+   "2023-08-09T00:00:00Z",
+   "2023-08-10T00:00:00Z",
+   "2023-08-11T00:00:00Z",
+   "2023-08-12T00:00:00Z",
+   "2023-08-13T00:00:00Z",
+   "2023-08-14T00:00:00Z"
+   ]
+   },
+   {
+   "id": "Character_VectorSpark",
+   "name": "Megumi Fushiguro",
+   "description": "Un prodigio que se matriculó en la escuela de hechicería como hechicero de segunda categoría.",
+   "type": {
+   "value": "outfit",
+   "displayValue": "Traje",
+   "backendValue": "AthenaCharacter"
+   },
+   "rarity": {
+   "value": "epic",
+   "displayValue": "Épico",
+   "backendValue": "EFortRarity::Epic"
+   },
+   "series": null,
+   "set": {
+   "value": "Jujutsu Kaisen",
+   "text": "Parte del conjunto Jujutsu Kaisen.",
+   "backendValue": "CleanWard"
+   },
+   "introduction": {
+   "chapter": "4",
+   "season": "3",
+   "text": "Introducido en Capítulo 4 - Temporada 3.",
+   "backendValue": 25
+   },
+   "images": {
+   "smallIcon": "https://fortnite-api.com/images/cosmetics/br/character_vectorspark/smallicon.png",
+   "icon": "https://fortnite-api.com/images/cosmetics/br/character_vectorspark/icon.png",
+   "featured": "https://fortnite-api.com/images/cosmetics/br/character_vectorspark/featured.png",
+   "other": null
+   },
+   "variants": null,
+   "searchTags": null,
+   "gameplayTags": [
+   "SoundLibrary.ID.StepType.ShoesSneakers",
+   "SoundLibrary.ID.ClothingType.Generic",
+   "SoundLibrary.ID.HandType.Bare",
+   "Cosmetics.Set.CleanWard",
+   "Cosmetics.Filter.Season.25",
+   "Cosmetics.Source.ItemShop"
+   ],
+   "metaTags": null,
+   "showcaseVideo": null,
+   "dynamicPakId": null,
+   "displayAssetPath": null,
+   "definitionPath": "FortniteGame/Content/Athena/Heroes/Hero_VectorSpark",
+   "path": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/Character_VectorSpark",
+   "added": "2023-08-08T08:00:00Z",
+   "shopHistory": [
+   "2023-08-08T00:00:00Z",
+   "2023-08-09T00:00:00Z",
+   "2023-08-10T00:00:00Z",
+   "2023-08-11T00:00:00Z",
+   "2023-08-12T00:00:00Z",
+   "2023-08-13T00:00:00Z",
+   "2023-08-14T00:00:00Z"
+   ]
+   },
+   {
+   "id": "EID_BirdsNestBlue",
+   "name": "Energía maldita",
+   "description": "Canaliza tus emociones negativas.",
+   "type": {
+   "value": "emote",
+   "displayValue": "Gesto",
+   "backendValue": "AthenaDance"
+   },
+   "rarity": {
+   "value": "rare",
+   "displayValue": "Raro",
+   "backendValue": "EFortRarity::Rare"
+   },
+   "series": null,
+   "set": {
+   "value": "Jujutsu Kaisen",
+   "text": "Parte del conjunto Jujutsu Kaisen.",
+   "backendValue": "CleanWard"
+   },
+   "introduction": {
+   "chapter": "4",
+   "season": "3",
+   "text": "Introducido en Capítulo 4 - Temporada 3.",
+   "backendValue": 25
+   },
+   "images": {
+   "smallIcon": "https://fortnite-api.com/images/cosmetics/br/eid_birdsnestblue/smallicon.png",
+   "icon": "https://fortnite-api.com/images/cosmetics/br/eid_birdsnestblue/icon.png",
+   "featured": null,
+   "other": null
+   },
+   "variants": null,
+   "searchTags": null,
+   "gameplayTags": [
+   "Cosmetics.EmoteType.Dance",
+   "Cosmetics.Set.CleanWard",
+   "Cosmetics.Filter.Season.25"
+   ],
+   "metaTags": null,
+   "showcaseVideo": null,
+   "dynamicPakId": null,
+   "displayAssetPath": null,
+   "definitionPath": null,
+   "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_BirdsNestBlue",
+   "added": "2023-08-11T14:36:17Z",
+   "shopHistory": null
+   },
+   {
+   "id": "EID_Competitor",
+   "name": "Night Out",
+   "description": "Dalo todo en la pista.",
+   "type": {
+   "value": "emote",
+   "displayValue": "Gesto",
+   "backendValue": "AthenaDance"
+   },
+   "rarity": {
+   "value": "icon",
+   "displayValue": "Serie de ídolos",
+   "backendValue": "EFortRarity::Rare"
+   },
+   "series": {
+   "value": "Serie de ídolos",
+   "image": "https://fortnite-api.com/images/cosmetics/br/series/creatorcollabseries.png",
+   "colors": [
+   "5cf2f3ff",
+   "2bc9caff",
+   "004c71ff",
+   "025253ff",
+   "000f2bff"
+   ],
+   "backendValue": "CreatorCollabSeries"
+   },
+   "set": null,
+   "introduction": {
+   "chapter": "4",
+   "season": "3",
+   "text": "Introducido en Capítulo 4 - Temporada 3.",
+   "backendValue": 25
+   },
+   "images": {
+   "smallIcon": "https://fortnite-api.com/images/cosmetics/br/eid_competitor/smallicon.png",
+   "icon": "https://fortnite-api.com/images/cosmetics/br/eid_competitor/icon.png",
+   "featured": "https://fortnite-api.com/images/cosmetics/br/eid_competitor/featured.png",
+   "other": null
+   },
+   "variants": null,
+   "searchTags": null,
+   "gameplayTags": [
+   "Cosmetics.EmoteType.Dance",
+   "Cosmetics.Source.ItemShop",
+   "Cosmetics.Filter.Season.25"
+   ],
+   "metaTags": null,
+   "showcaseVideo": "dYxEL9daI2A",
+   "dynamicPakId": "1006",
+   "displayAssetPath": null,
+   "definitionPath": null,
+   "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_Competitor",
+   "added": "2023-08-14T00:00:00Z",
+   "shopHistory": [
+   "2023-08-14T00:00:00Z"
+   ]
+   },
+   {
+   "id": "EID_Ponder",
+   "name": "Duda existencial",
+   "description": "Hora de meditar, reflexionar, considerar, trazar planes...",
+   "type": {
+   "value": "emote",
+   "displayValue": "Gesto",
+   "backendValue": "AthenaDance"
+   },
+   "rarity": {
+   "value": "uncommon",
+   "displayValue": "Poco común",
+   "backendValue": "EFortRarity::Uncommon"
+   },
+   "series": null,
+   "set": null,
+   "introduction": {
+   "chapter": "4",
+   "season": "3",
+   "text": "Introducido en Capítulo 4 - Temporada 3.",
+   "backendValue": 25
+   },
+   "images": {
+   "smallIcon": "https://fortnite-api.com/images/cosmetics/br/eid_ponder/smallicon.png",
+   "icon": "https://fortnite-api.com/images/cosmetics/br/eid_ponder/icon.png",
+   "featured": "https://fortnite-api.com/images/cosmetics/br/eid_ponder/featured.png",
+   "other": null
+   },
+   "variants": null,
+   "searchTags": null,
+   "gameplayTags": [
+   "Cosmetics.EmoteType.Dance",
+   "Cosmetics.Source.ItemShop",
+   "Cosmetics.Filter.Season.25"
+   ],
+   "metaTags": null,
+   "showcaseVideo": null,
+   "dynamicPakId": null,
+   "displayAssetPath": null,
+   "definitionPath": null,
+   "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_Ponder",
+   "added": "2023-08-11T14:36:17Z",
+   "shopHistory": null
+   },
+   {
+   "id": "EID_Swoosh",
+   "name": "Superabanico",
+   "description": "Enséñales tu mejor floritura.",
+   "type": {
+   "value": "emote",
+   "displayValue": "Gesto",
+   "backendValue": "AthenaDance"
+   },
+   "rarity": {
+   "value": "uncommon",
+   "displayValue": "Poco común",
+   "backendValue": "EFortRarity::Uncommon"
+   },
+   "series": null,
+   "set": null,
+   "introduction": {
+   "chapter": "4",
+   "season": "3",
+   "text": "Introducido en Capítulo 4 - Temporada 3.",
+   "backendValue": 25
+   },
+   "images": {
+   "smallIcon": "https://fortnite-api.com/images/cosmetics/br/eid_swoosh/smallicon.png",
+   "icon": "https://fortnite-api.com/images/cosmetics/br/eid_swoosh/icon.png",
+   "featured": "https://fortnite-api.com/images/cosmetics/br/eid_swoosh/featured.png",
+   "other": null
+   },
+   "variants": null,
+   "searchTags": null,
+   "gameplayTags": [
+   "Cosmetics.EmoteType.Dance",
+   "Cosmetics.Filter.Season.25"
+   ],
+   "metaTags": null,
+   "showcaseVideo": null,
+   "dynamicPakId": null,
+   "displayAssetPath": null,
+   "definitionPath": null,
+   "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_Swoosh",
+   "added": "2023-08-11T14:36:17Z",
+   "shopHistory": null
+   },
+   {
+   "id": "EID_VectorSpark",
+   "name": "Técnica de sombras: sapo",
+   "description": "Invoca a tu shikigami.",
+   "type": {
+   "value": "emote",
+   "displayValue": "Gesto",
+   "backendValue": "AthenaDance"
+   },
+   "rarity": {
+   "value": "rare",
+   "displayValue": "Raro",
+   "backendValue": "EFortRarity::Rare"
+   },
+   "series": null,
+   "set": {
+   "value": "Jujutsu Kaisen",
+   "text": "Parte del conjunto Jujutsu Kaisen.",
+   "backendValue": "CleanWard"
+   },
+   "introduction": {
+   "chapter": "4",
+   "season": "3",
+   "text": "Introducido en Capítulo 4 - Temporada 3.",
+   "backendValue": 25
+   },
+   "images": {
+   "smallIcon": "https://fortnite-api.com/images/cosmetics/br/eid_vectorspark/smallicon.png",
+   "icon": "https://fortnite-api.com/images/cosmetics/br/eid_vectorspark/icon.png",
+   "featured": null,
+   "other": null
+   },
+   "variants": null,
+   "searchTags": null,
+   "gameplayTags": [
+   "Cosmetics.EmoteType.Dance",
+   "Cosmetics.Filter.Season.25",
+   "Cosmetics.Set.CleanWard"
+   ],
+   "metaTags": null,
+   "showcaseVideo": null,
+   "dynamicPakId": null,
+   "displayAssetPath": null,
+   "definitionPath": null,
+   "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_VectorSpark",
+   "added": "2023-08-11T14:36:17Z",
+   "shopHistory": null
+   },
+   {
+   "id": "EID_VectorSparkv2",
+   "name": "Técnica de sombras: perro",
+   "description": "Invoca a tu shikigami.",
+   "type": {
+   "value": "emote",
+   "displayValue": "Gesto",
+   "backendValue": "AthenaDance"
+   },
+   "rarity": {
+   "value": "rare",
+   "displayValue": "Raro",
+   "backendValue": "EFortRarity::Rare"
+   },
+   "series": null,
+   "set": {
+   "value": "Jujutsu Kaisen",
+   "text": "Parte del conjunto Jujutsu Kaisen.",
+   "backendValue": "CleanWard"
+   },
+   "introduction": {
+   "chapter": "4",
+   "season": "3",
+   "text": "Introducido en Capítulo 4 - Temporada 3.",
+   "backendValue": 25
+   },
+   "images": {
+   "smallIcon": "https://fortnite-api.com/images/cosmetics/br/eid_vectorsparkv2/smallicon.png",
+   "icon": "https://fortnite-api.com/images/cosmetics/br/eid_vectorsparkv2/icon.png",
+   "featured": null,
+   "other": null
+   },
+   "variants": null,
+   "searchTags": null,
+   "gameplayTags": [
+   "Cosmetics.EmoteType.Dance",
+   "Cosmetics.Source.ItemShop",
+   "Cosmetics.Filter.Season.25",
+   "Cosmetics.Set.CleanWard"
+   ],
+   "metaTags": null,
+   "showcaseVideo": null,
+   "dynamicPakId": null,
+   "displayAssetPath": null,
+   "definitionPath": null,
+   "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_VectorSparkv2",
+   "added": "2023-08-08T08:00:00Z",
+   "shopHistory": [
+   "2023-08-08T00:00:00Z",
+   "2023-08-09T00:00:00Z",
+   "2023-08-10T00:00:00Z",
+   "2023-08-11T00:00:00Z",
+   "2023-08-12T00:00:00Z",
+   "2023-08-13T00:00:00Z",
+   "2023-08-14T00:00:00Z"
+   ]
+   },
+   {
+   "id": "EID_VectorSparkv3",
+   "name": "Técnica de sombras: elefante máximo",
+   "description": "Invoca a tu shikigami.",
+   "type": {
+   "value": "emote",
+   "displayValue": "Gesto",
+   "backendValue": "AthenaDance"
+   },
+   "rarity": {
+   "value": "rare",
+   "displayValue": "Raro",
+   "backendValue": "EFortRarity::Rare"
+   },
+   "series": null,
+   "set": {
+   "value": "Jujutsu Kaisen",
+   "text": "Parte del conjunto Jujutsu Kaisen.",
+   "backendValue": "CleanWard"
+   },
+   "introduction": {
+   "chapter": "4",
+   "season": "3",
+   "text": "Introducido en Capítulo 4 - Temporada 3.",
+   "backendValue": 25
+   },
+   "images": {
+   "smallIcon": "https://fortnite-api.com/images/cosmetics/br/eid_vectorsparkv3/smallicon.png",
+   "icon": "https://fortnite-api.com/images/cosmetics/br/eid_vectorsparkv3/icon.png",
+   "featured": "https://fortnite-api.com/images/cosmetics/br/eid_vectorsparkv3/featured.png",
+   "other": null
+   },
+   "variants": null,
+   "searchTags": null,
+   "gameplayTags": [
+   "Cosmetics.EmoteType.Dance",
+   "Cosmetics.Source.ItemShop",
+   "Cosmetics.Filter.Season.25",
+   "Cosmetics.Set.CleanWard"
+   ],
+   "metaTags": null,
+   "showcaseVideo": null,
+   "dynamicPakId": null,
+   "displayAssetPath": null,
+   "definitionPath": null,
+   "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_VectorSparkv3",
+   "added": "2023-08-08T08:00:00Z",
+   "shopHistory": [
+   "2023-08-08T00:00:00Z",
+   "2023-08-09T00:00:00Z",
+   "2023-08-10T00:00:00Z",
+   "2023-08-11T00:00:00Z",
+   "2023-08-12T00:00:00Z",
+   "2023-08-13T00:00:00Z",
+   "2023-08-14T00:00:00Z"
+   ]
+   },
+   {
+   "id": "Emoji_S25_Event_CL",
+   "name": "Llama maldita",
+   "description": "Exprésate en el campo de batalla.",
+   "type": {
+   "value": "emoji",
+   "displayValue": "Emoticono",
+   "backendValue": "AthenaEmoji"
+   },
+   "rarity": {
+   "value": "uncommon",
+   "displayValue": "Poco común",
+   "backendValue": "EFortRarity::Uncommon"
+   },
+   "series": null,
+   "set": {
+   "value": "Jujutsu Kaisen",
+   "text": "Parte del conjunto Jujutsu Kaisen.",
+   "backendValue": "CleanWard"
+   },
+   "introduction": {
+   "chapter": "4",
+   "season": "3",
+   "text": "Introducido en Capítulo 4 - Temporada 3.",
+   "backendValue": 25
+   },
+   "images": {
+   "smallIcon": "https://fortnite-api.com/images/cosmetics/br/emoji_s25_event_cl/smallicon.png",
+   "icon": "https://fortnite-api.com/images/cosmetics/br/emoji_s25_event_cl/icon.png",
+   "featured": "https://fortnite-api.com/images/cosmetics/br/emoji_s25_event_cl/featured.png",
+   "other": null
+   },
+   "variants": null,
+   "searchTags": null,
+   "gameplayTags": [
+   "Cosmetics.EmoteType.Emoji",
+   "Cosmetics.Filter.Season.25",
+   "Cosmetics.Set.CleanWard"
+   ],
+   "metaTags": null,
+   "showcaseVideo": null,
+   "dynamicPakId": null,
+   "displayAssetPath": null,
+   "definitionPath": null,
+   "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S25_Event_CL",
+   "added": "2023-08-11T14:36:17Z",
+   "shopHistory": null
+   },
+   {
+   "id": "Emoji_S25_Event_N",
+   "name": "Nobara enfadada",
+   "description": "Exprésate en el campo de batalla.",
+   "type": {
+   "value": "emoji",
+   "displayValue": "Emoticono",
+   "backendValue": "AthenaEmoji"
+   },
+   "rarity": {
+   "value": "uncommon",
+   "displayValue": "Poco común",
+   "backendValue": "EFortRarity::Uncommon"
+   },
+   "series": null,
+   "set": {
+   "value": "Jujutsu Kaisen",
+   "text": "Parte del conjunto Jujutsu Kaisen.",
+   "backendValue": "CleanWard"
+   },
+   "introduction": {
+   "chapter": "4",
+   "season": "3",
+   "text": "Introducido en Capítulo 4 - Temporada 3.",
+   "backendValue": 25
+   },
+   "images": {
+   "smallIcon": "https://fortnite-api.com/images/cosmetics/br/emoji_s25_event_n/smallicon.png",
+   "icon": "https://fortnite-api.com/images/cosmetics/br/emoji_s25_event_n/icon.png",
+   "featured": "https://fortnite-api.com/images/cosmetics/br/emoji_s25_event_n/featured.png",
+   "other": null
+   },
+   "variants": null,
+   "searchTags": null,
+   "gameplayTags": [
+   "Cosmetics.EmoteType.Emoji",
+   "Cosmetics.Filter.Season.25",
+   "Cosmetics.UserFacingFlags.Emoticon.Animated",
+   "Cosmetics.Set.CleanWard"
+   ],
+   "metaTags": null,
+   "showcaseVideo": null,
+   "dynamicPakId": null,
+   "displayAssetPath": null,
+   "definitionPath": null,
+   "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S25_Event_N",
+   "added": "2023-08-11T14:36:17Z",
+   "shopHistory": null
+   },
+   {
+   "id": "Emoji_S25_Event_Y",
+   "name": "Yuji confundido",
+   "description": "Exprésate en el campo de batalla.",
+   "type": {
+   "value": "emoji",
+   "displayValue": "Emoticono",
+   "backendValue": "AthenaEmoji"
+   },
+   "rarity": {
+   "value": "uncommon",
+   "displayValue": "Poco común",
+   "backendValue": "EFortRarity::Uncommon"
+   },
+   "series": null,
+   "set": {
+   "value": "Jujutsu Kaisen",
+   "text": "Parte del conjunto Jujutsu Kaisen.",
+   "backendValue": "CleanWard"
+   },
+   "introduction": {
+   "chapter": "4",
+   "season": "3",
+   "text": "Introducido en Capítulo 4 - Temporada 3.",
+   "backendValue": 25
+   },
+   "images": {
+   "smallIcon": "https://fortnite-api.com/images/cosmetics/br/emoji_s25_event_y/smallicon.png",
+   "icon": "https://fortnite-api.com/images/cosmetics/br/emoji_s25_event_y/icon.png",
+   "featured": "https://fortnite-api.com/images/cosmetics/br/emoji_s25_event_y/featured.png",
+   "other": null
+   },
+   "variants": null,
+   "searchTags": null,
+   "gameplayTags": [
+   "Cosmetics.EmoteType.Emoji",
+   "Cosmetics.Filter.Season.25",
+   "Cosmetics.UserFacingFlags.Emoticon.Animated",
+   "Cosmetics.Set.CleanWard"
+   ],
+   "metaTags": null,
+   "showcaseVideo": null,
+   "dynamicPakId": null,
+   "displayAssetPath": null,
+   "definitionPath": null,
+   "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S25_Event_Y",
+   "added": "2023-08-11T14:36:17Z",
+   "shopHistory": null
+   },
+   {
+   "id": "Emoji_S25_RainbowRoyale",
+   "name": "Arcoíris artístico",
+   "description": "Exprésate en el campo de batalla.",
+   "type": {
+   "value": "emoji",
+   "displayValue": "Emoticono",
+   "backendValue": "AthenaEmoji"
+   },
+   "rarity": {
+   "value": "uncommon",
+   "displayValue": "Poco común",
+   "backendValue": "EFortRarity::Uncommon"
+   },
+   "series": null,
+   "set": null,
+   "introduction": {
+   "chapter": "4",
+   "season": "3",
+   "text": "Introducido en Capítulo 4 - Temporada 3.",
+   "backendValue": 25
+   },
+   "images": {
+   "smallIcon": "https://fortnite-api.com/images/cosmetics/br/emoji_s25_rainbowroyale/smallicon.png",
+   "icon": "https://fortnite-api.com/images/cosmetics/br/emoji_s25_rainbowroyale/icon.png",
+   "featured": "https://fortnite-api.com/images/cosmetics/br/emoji_s25_rainbowroyale/featured.png",
+   "other": null
+   },
+   "variants": null,
+   "searchTags": null,
+   "gameplayTags": [
+   "Cosmetics.EmoteType.Emoji",
+   "Cosmetics.Filter.Season.25",
+   "Cosmetics.UserFacingFlags.Emoticon.Animated"
+   ],
+   "metaTags": null,
+   "showcaseVideo": null,
+   "dynamicPakId": null,
+   "displayAssetPath": null,
+   "definitionPath": null,
+   "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S25_RainbowRoyale",
+   "added": "2023-08-11T14:36:17Z",
+   "shopHistory": null
+   },
+   {
+   "id": "Emoji_S25_StarStrayFN",
+   "name": "Casco galáctico",
+   "description": "Exprésate en el campo de batalla.",
+   "type": {
+   "value": "emoji",
+   "displayValue": "Emoticono",
+   "backendValue": "AthenaEmoji"
+   },
+   "rarity": {
+   "value": "uncommon",
+   "displayValue": "Poco común",
+   "backendValue": "EFortRarity::Uncommon"
+   },
+   "series": null,
+   "set": {
+   "value": "Ritmos de ensueño",
+   "text": "Parte del conjunto Ritmos de ensueño.",
+   "backendValue": "FuzzySleeps"
+   },
+   "introduction": {
+   "chapter": "4",
+   "season": "3",
+   "text": "Introducido en Capítulo 4 - Temporada 3.",
+   "backendValue": 25
+   },
+   "images": {
+   "smallIcon": "https://fortnite-api.com/images/cosmetics/br/emoji_s25_starstrayfn/smallicon.png",
+   "icon": "https://fortnite-api.com/images/cosmetics/br/emoji_s25_starstrayfn/icon.png",
+   "featured": "https://fortnite-api.com/images/cosmetics/br/emoji_s25_starstrayfn/featured.png",
+   "other": null
+   },
+   "variants": null,
+   "searchTags": null,
+   "gameplayTags": [
+   "Cosmetics.EmoteType.Emoji",
+   "Cosmetics.Filter.Season.25",
+   "Cosmetics.Set.FuzzySleeps"
+   ],
+   "metaTags": null,
+   "showcaseVideo": null,
+   "dynamicPakId": null,
+   "displayAssetPath": null,
+   "definitionPath": null,
+   "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S25_StarStrayFN",
+   "added": "2023-08-11T14:36:17Z",
+   "shopHistory": null
+   },
+   {
+   "id": "Emoji_S25_Tournament_DD",
+   "name": "Kon buen chico",
+   "description": "Exprésate en el campo de batalla.",
+   "type": {
+   "value": "emoji",
+   "displayValue": "Emoticono",
+   "backendValue": "AthenaEmoji"
+   },
+   "rarity": {
+   "value": "uncommon",
+   "displayValue": "Poco común",
+   "backendValue": "EFortRarity::Uncommon"
+   },
+   "series": null,
+   "set": {
+   "value": "Jujutsu Kaisen",
+   "text": "Parte del conjunto Jujutsu Kaisen.",
+   "backendValue": "CleanWard"
+   },
+   "introduction": {
+   "chapter": "4",
+   "season": "3",
+   "text": "Introducido en Capítulo 4 - Temporada 3.",
+   "backendValue": 25
+   },
+   "images": {
+   "smallIcon": "https://fortnite-api.com/images/cosmetics/br/emoji_s25_tournament_dd/smallicon.png",
+   "icon": "https://fortnite-api.com/images/cosmetics/br/emoji_s25_tournament_dd/icon.png",
+   "featured": "https://fortnite-api.com/images/cosmetics/br/emoji_s25_tournament_dd/featured.png",
+   "other": null
+   },
+   "variants": null,
+   "searchTags": null,
+   "gameplayTags": [
+   "Cosmetics.EmoteType.Emoji",
+   "Cosmetics.Filter.Season.25",
+   "Cosmetics.UserFacingFlags.Emoticon.Animated",
+   "Cosmetics.Set.CleanWard"
+   ],
+   "metaTags": null,
+   "showcaseVideo": null,
+   "dynamicPakId": null,
+   "displayAssetPath": null,
+   "definitionPath": null,
+   "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S25_Tournament_DD",
+   "added": "2023-08-11T14:36:17Z",
+   "shopHistory": null
+   },
+   {
+   "id": "Emoji_S25_Tournament_Winking",
+   "name": "Ojo de Gojo",
+   "description": "Exprésate en el campo de batalla.",
+   "type": {
+   "value": "emoji",
+   "displayValue": "Emoticono",
+   "backendValue": "AthenaEmoji"
+   },
+   "rarity": {
+   "value": "uncommon",
+   "displayValue": "Poco común",
+   "backendValue": "EFortRarity::Uncommon"
+   },
+   "series": null,
+   "set": {
+   "value": "Jujutsu Kaisen",
+   "text": "Parte del conjunto Jujutsu Kaisen.",
+   "backendValue": "CleanWard"
+   },
+   "introduction": {
+   "chapter": "4",
+   "season": "3",
+   "text": "Introducido en Capítulo 4 - Temporada 3.",
+   "backendValue": 25
+   },
+   "images": {
+   "smallIcon": "https://fortnite-api.com/images/cosmetics/br/emoji_s25_tournament_winking/smallicon.png",
+   "icon": "https://fortnite-api.com/images/cosmetics/br/emoji_s25_tournament_winking/icon.png",
+   "featured": "https://fortnite-api.com/images/cosmetics/br/emoji_s25_tournament_winking/featured.png",
+   "other": null
+   },
+   "variants": null,
+   "searchTags": null,
+   "gameplayTags": [
+   "Cosmetics.EmoteType.Emoji",
+   "Cosmetics.Filter.Season.25",
+   "Cosmetics.UserFacingFlags.Emoticon.Animated",
+   "Cosmetics.Set.CleanWard"
+   ],
+   "metaTags": null,
+   "showcaseVideo": null,
+   "dynamicPakId": null,
+   "displayAssetPath": null,
+   "definitionPath": null,
+   "path": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S25_Tournament_Winking",
+   "added": "2023-08-11T14:36:17Z",
+   "shopHistory": null
+   },
+   {
+   "id": "Glider_BirdNest",
+   "name": "Nue",
+   "description": "Un shikigami que tiene la capacidad de volar.",
+   "type": {
+   "value": "glider",
+   "displayValue": "Ala delta",
+   "backendValue": "AthenaGlider"
+   },
+   "rarity": {
+   "value": "epic",
+   "displayValue": "Épico",
+   "backendValue": "EFortRarity::Epic"
+   },
+   "series": null,
+   "set": {
+   "value": "Jujutsu Kaisen",
+   "text": "Parte del conjunto Jujutsu Kaisen.",
+   "backendValue": "CleanWard"
+   },
+   "introduction": {
+   "chapter": "4",
+   "season": "3",
+   "text": "Introducido en Capítulo 4 - Temporada 3.",
+   "backendValue": 25
+   },
+   "images": {
+   "smallIcon": "https://fortnite-api.com/images/cosmetics/br/glider_birdnest/smallicon.png",
+   "icon": "https://fortnite-api.com/images/cosmetics/br/glider_birdnest/icon.png",
+   "featured": "https://fortnite-api.com/images/cosmetics/br/glider_birdnest/featured.png",
+   "other": null
+   },
+   "variants": null,
+   "searchTags": null,
+   "gameplayTags": [
+   "Cosmetics.Filter.Season.25",
+   "Cosmetics.Set.CleanWard",
+   "Cosmetics.Source.Event.Engagement.Paid"
+   ],
+   "metaTags": null,
+   "showcaseVideo": null,
+   "dynamicPakId": null,
+   "displayAssetPath": null,
+   "definitionPath": null,
+   "path": "FortniteGame/Content/Athena/Items/Cosmetics/Gliders/Glider_BirdNest",
+   "added": "2023-08-11T14:36:17Z",
+   "shopHistory": null
+   },
+   {
+   "id": "LoadingScreen_FortniteStories",
+   "name": "Reinvención de Slone",
+   "description": "Los secretos del Artilugio podrían cambiarlo todo.",
+   "type": {
+   "value": "loadingscreen",
+   "displayValue": "Pantalla de carga",
+   "backendValue": "AthenaLoadingScreen"
+   },
+   "rarity": {
+   "value": "uncommon",
+   "displayValue": "Poco común",
+   "backendValue": "EFortRarity::Uncommon"
+   },
+   "series": null,
+   "set": {
+   "value": "Slone liberada",
+   "text": "Parte del conjunto Slone liberada.",
+   "backendValue": "CreatorRevealed"
+   },
+   "introduction": {
+   "chapter": "4",
+   "season": "3",
+   "text": "Introducido en Capítulo 4 - Temporada 3.",
+   "backendValue": 25
+   },
+   "images": {
+   "smallIcon": "https://fortnite-api.com/images/cosmetics/br/loadingscreen_fortnitestories/smallicon.png",
+   "icon": "https://fortnite-api.com/images/cosmetics/br/loadingscreen_fortnitestories/icon.png",
+   "featured": null,
+   "other": {
+   "background": "https://fortnite-api.com/images/cosmetics/br/loadingscreen_fortnitestories/background.png"
+   }
+   },
+   "variants": null,
+   "searchTags": null,
+   "gameplayTags": [
+   "Cosmetics.Filter.Season.25",
+   "Cosmetics.Set.CreatorRevealed"
+   ],
+   "metaTags": null,
+   "showcaseVideo": null,
+   "dynamicPakId": null,
+   "displayAssetPath": null,
+   "definitionPath": null,
+   "path": "FortniteGame/Content/Athena/Items/Cosmetics/LoadingScreens/LoadingScreen_FortniteStories",
+   "added": "2023-08-11T14:36:17Z",
+   "shopHistory": null
+   },
+   {
+   "id": "LoadingScreen_QuotientKeyArt",
+   "name": "Hechiceros jujutsu",
+   "description": "Los portadores de las técnicas malditas.",
+   "type": {
+   "value": "loadingscreen",
+   "displayValue": "Pantalla de carga",
+   "backendValue": "AthenaLoadingScreen"
+   },
+   "rarity": {
+   "value": "uncommon",
+   "displayValue": "Poco común",
+   "backendValue": "EFortRarity::Uncommon"
+   },
+   "series": null,
+   "set": {
+   "value": "Jujutsu Kaisen",
+   "text": "Parte del conjunto Jujutsu Kaisen.",
+   "backendValue": "CleanWard"
+   },
+   "introduction": {
+   "chapter": "4",
+   "season": "3",
+   "text": "Introducido en Capítulo 4 - Temporada 3.",
+   "backendValue": 25
+   },
+   "images": {
+   "smallIcon": "https://fortnite-api.com/images/cosmetics/br/loadingscreen_quotientkeyart/smallicon.png",
+   "icon": "https://fortnite-api.com/images/cosmetics/br/loadingscreen_quotientkeyart/icon.png",
+   "featured": null,
+   "other": {
+   "background": "https://fortnite-api.com/images/cosmetics/br/loadingscreen_quotientkeyart/background.png"
+   }
+   },
+   "variants": null,
+   "searchTags": null,
+   "gameplayTags": [
+   "Cosmetics.Filter.Season.25",
+   "Cosmetics.Set.CleanWard"
+   ],
+   "metaTags": null,
+   "showcaseVideo": null,
+   "dynamicPakId": null,
+   "displayAssetPath": null,
+   "definitionPath": null,
+   "path": "FortniteGame/Content/Athena/Items/Cosmetics/LoadingScreens/LoadingScreen_QuotientKeyArt",
+   "added": "2023-08-11T14:36:17Z",
+   "shopHistory": null
+   },
+   {
+   "id": "MusicPack_184_FNCSDrops",
+   "name": "Hasta el último aliento",
+   "description": "Dale a reproducir y demuéstrales por qué luchas.",
+   "type": {
+   "value": "music",
+   "displayValue": "Música",
+   "backendValue": "AthenaMusicPack"
+   },
+   "rarity": {
+   "value": "rare",
+   "displayValue": "Raro",
+   "backendValue": "EFortRarity::Rare"
+   },
+   "series": null,
+   "set": {
+   "value": "FNCS",
+   "text": "Parte del conjunto FNCS.",
+   "backendValue": "FNCS"
+   },
+   "introduction": {
+   "chapter": "4",
+   "season": "3",
+   "text": "Introducido en Capítulo 4 - Temporada 3.",
+   "backendValue": 25
+   },
+   "images": {
+   "smallIcon": "https://fortnite-api.com/images/cosmetics/br/musicpack_184_fncsdrops/smallicon.png",
+   "icon": "https://fortnite-api.com/images/cosmetics/br/musicpack_184_fncsdrops/icon.png",
+   "featured": "https://fortnite-api.com/images/cosmetics/br/musicpack_184_fncsdrops/featured.png",
+   "other": {
+   "coverart": "https://fortnite-api.com/images/cosmetics/br/musicpack_184_fncsdrops/coverart.png"
+   }
+   },
+   "variants": null,
+   "searchTags": null,
+   "gameplayTags": [
+   "Cosmetics.Filter.Season.25",
+   "Cosmetics.Set.FNCS"
+   ],
+   "metaTags": null,
+   "showcaseVideo": null,
+   "dynamicPakId": null,
+   "displayAssetPath": null,
+   "definitionPath": null,
+   "path": "FortniteGame/Content/Athena/Items/Cosmetics/MusicPacks/MusicPack_184_FNCSDrops",
+   "added": "2023-08-11T14:36:17Z",
+   "shopHistory": null
+   },
+   {
+   "id": "Pickaxe_BirdNest",
+   "name": "Cuchillo cazademonios",
+   "description": "Imbuido de energía maldita.",
+   "type": {
+   "value": "pickaxe",
+   "displayValue": "Pico",
+   "backendValue": "AthenaPickaxe"
+   },
+   "rarity": {
+   "value": "rare",
+   "displayValue": "Raro",
+   "backendValue": "EFortRarity::Rare"
+   },
+   "series": null,
+   "set": {
+   "value": "Jujutsu Kaisen",
+   "text": "Parte del conjunto Jujutsu Kaisen.",
+   "backendValue": "CleanWard"
+   },
+   "introduction": {
+   "chapter": "4",
+   "season": "3",
+   "text": "Introducido en Capítulo 4 - Temporada 3.",
+   "backendValue": 25
+   },
+   "images": {
+   "smallIcon": "https://fortnite-api.com/images/cosmetics/br/pickaxe_birdnest/smallicon.png",
+   "icon": "https://fortnite-api.com/images/cosmetics/br/pickaxe_birdnest/icon.png",
+   "featured": null,
+   "other": null
+   },
+   "variants": null,
+   "searchTags": null,
+   "gameplayTags": [
+   "Cosmetics.Pickaxe.OneHanded",
+   "Cosmetics.Filter.Season.25",
+   "Cosmetics.Set.CleanWard",
+   "Cosmetics.Source.Event.Engagement.Paid"
+   ],
+   "metaTags": null,
+   "showcaseVideo": null,
+   "dynamicPakId": null,
+   "displayAssetPath": null,
+   "definitionPath": "FortniteGame/Content/Athena/Items/Weapons/Weapon_Pickaxe_BirdNest",
+   "path": "FortniteGame/Content/Athena/Items/Cosmetics/PickAxes/Pickaxe_BirdNest",
+   "added": "2023-08-11T14:36:17Z",
+   "shopHistory": null
+   },
+   {
+   "id": "Pickaxe_FossilMech",
+   "name": "Martillo rootkit",
+   "description": "Ctrl + Alt + Destruir.",
+   "type": {
+   "value": "pickaxe",
+   "displayValue": "Pico",
+   "backendValue": "AthenaPickaxe"
+   },
+   "rarity": {
+   "value": "rare",
+   "displayValue": "Raro",
+   "backendValue": "EFortRarity::Rare"
+   },
+   "series": null,
+   "set": {
+   "value": "Código de extinción",
+   "text": "Parte del conjunto Código de extinción.",
+   "backendValue": "DeathCipher"
+   },
+   "introduction": {
+   "chapter": "4",
+   "season": "3",
+   "text": "Introducido en Capítulo 4 - Temporada 3.",
+   "backendValue": 25
+   },
+   "images": {
+   "smallIcon": "https://fortnite-api.com/images/cosmetics/br/pickaxe_fossilmech/smallicon.png",
+   "icon": "https://fortnite-api.com/images/cosmetics/br/pickaxe_fossilmech/icon.png",
+   "featured": null,
+   "other": null
+   },
+   "variants": null,
+   "searchTags": null,
+   "gameplayTags": [
+   "Cosmetics.Filter.Season.25",
+   "Cosmetics.Set.DeathCipher",
+   "Cosmetics.Source.StarterPack",
+   "Cosmetics.UserFacingFlags.Reactive"
+   ],
+   "metaTags": null,
+   "showcaseVideo": null,
+   "dynamicPakId": null,
+   "displayAssetPath": null,
+   "definitionPath": "FortniteGame/Content/Athena/Items/Weapons/Weapon_Pickaxe_FossilMech",
+   "path": "FortniteGame/Content/Athena/Items/Cosmetics/PickAxes/Pickaxe_FossilMech",
+   "added": "2023-08-11T14:36:17Z",
+   "shopHistory": null
+   },
+   {
+   "id": "Pickaxe_HornettaVine",
+   "name": "Filo luminoso",
+   "description": "Un aguijón de cristal.",
+   "type": {
+   "value": "pickaxe",
+   "displayValue": "Pico",
+   "backendValue": "AthenaPickaxe"
+   },
+   "rarity": {
+   "value": "uncommon",
+   "displayValue": "Poco común",
+   "backendValue": "EFortRarity::Uncommon"
+   },
+   "series": null,
+   "set": {
+   "value": "Agente del inframundo",
+   "text": "Parte del conjunto Agente del inframundo.",
+   "backendValue": "MobAgent"
+   },
+   "introduction": {
+   "chapter": "4",
+   "season": "3",
+   "text": "Introducido en Capítulo 4 - Temporada 3.",
+   "backendValue": 25
+   },
+   "images": {
+   "smallIcon": "https://fortnite-api.com/images/cosmetics/br/pickaxe_hornettavine/smallicon.png",
+   "icon": "https://fortnite-api.com/images/cosmetics/br/pickaxe_hornettavine/icon.png",
+   "featured": "https://fortnite-api.com/images/cosmetics/br/pickaxe_hornettavine/featured.png",
+   "other": null
+   },
+   "variants": null,
+   "searchTags": null,
+   "gameplayTags": [
+   "Cosmetics.Filter.Season.25",
+   "Cosmetics.Set.MobAgent",
+   "Cosmetics.Source.ItemShop"
+   ],
+   "metaTags": null,
+   "showcaseVideo": "oVc1ou58Kms",
+   "dynamicPakId": null,
+   "displayAssetPath": null,
+   "definitionPath": "FortniteGame/Content/Athena/Items/Weapons/Weapon_Pickaxe_HornettaVine",
+   "path": "FortniteGame/Content/Athena/Items/Cosmetics/PickAxes/Pickaxe_HornettaVine",
+   "added": "2023-08-11T14:36:17Z",
+   "shopHistory": [
+   "2023-08-13T00:00:00Z"
+   ]
+   },
+   {
+   "id": "Pickaxe_RoosterMeltMouse",
+   "name": "Martillo de Kugisaki",
+   "description": "El martillo de plástico de Nobara.",
+   "type": {
+   "value": "pickaxe",
+   "displayValue": "Pico",
+   "backendValue": "AthenaPickaxe"
+   },
+   "rarity": {
+   "value": "rare",
+   "displayValue": "Raro",
+   "backendValue": "EFortRarity::Rare"
+   },
+   "series": null,
+   "set": {
+   "value": "Jujutsu Kaisen",
+   "text": "Parte del conjunto Jujutsu Kaisen.",
+   "backendValue": "CleanWard"
+   },
+   "introduction": {
+   "chapter": "4",
+   "season": "3",
+   "text": "Introducido en Capítulo 4 - Temporada 3.",
+   "backendValue": 25
+   },
+   "images": {
+   "smallIcon": "https://fortnite-api.com/images/cosmetics/br/pickaxe_roostermeltmouse/smallicon.png",
+   "icon": "https://fortnite-api.com/images/cosmetics/br/pickaxe_roostermeltmouse/icon.png",
+   "featured": "https://fortnite-api.com/images/cosmetics/br/pickaxe_roostermeltmouse/featured.png",
+   "other": null
+   },
+   "variants": null,
+   "searchTags": null,
+   "gameplayTags": [
+   "Cosmetics.Pickaxe.OneHanded",
+   "Cosmetics.Filter.Season.25",
+   "Cosmetics.Set.CleanWard",
+   "Cosmetics.Source.ItemShop"
+   ],
+   "metaTags": null,
+   "showcaseVideo": null,
+   "dynamicPakId": null,
+   "displayAssetPath": null,
+   "definitionPath": "FortniteGame/Content/Athena/Items/Weapons/Weapon_Pickaxe_RoosterMeltMouse",
+   "path": "FortniteGame/Content/Athena/Items/Cosmetics/PickAxes/Pickaxe_RoosterMeltMouse",
+   "added": "2023-08-08T08:00:00Z",
+   "shopHistory": [
+   "2023-08-08T00:00:00Z",
+   "2023-08-09T00:00:00Z",
+   "2023-08-10T00:00:00Z",
+   "2023-08-11T00:00:00Z",
+   "2023-08-12T00:00:00Z",
+   "2023-08-13T00:00:00Z",
+   "2023-08-14T00:00:00Z"
+   ]
+   },
+   {
+   "id": "Pickaxe_VectorSpark",
+   "name": "Espada de Megumi",
+   "description": "Oculta entre las sombras hasta que llegue el momento de asestar el golpe de gracia.",
+   "type": {
+   "value": "pickaxe",
+   "displayValue": "Pico",
+   "backendValue": "AthenaPickaxe"
+   },
+   "rarity": {
+   "value": "rare",
+   "displayValue": "Raro",
+   "backendValue": "EFortRarity::Rare"
+   },
+   "series": null,
+   "set": {
+   "value": "Jujutsu Kaisen",
+   "text": "Parte del conjunto Jujutsu Kaisen.",
+   "backendValue": "CleanWard"
+   },
+   "introduction": {
+   "chapter": "4",
+   "season": "3",
+   "text": "Introducido en Capítulo 4 - Temporada 3.",
+   "backendValue": 25
+   },
+   "images": {
+   "smallIcon": "https://fortnite-api.com/images/cosmetics/br/pickaxe_vectorspark/smallicon.png",
+   "icon": "https://fortnite-api.com/images/cosmetics/br/pickaxe_vectorspark/icon.png",
+   "featured": "https://fortnite-api.com/images/cosmetics/br/pickaxe_vectorspark/featured.png",
+   "other": null
+   },
+   "variants": null,
+   "searchTags": null,
+   "gameplayTags": [
+   "Cosmetics.Pickaxe.OneHanded",
+   "Cosmetics.Filter.Season.25",
+   "Cosmetics.Set.CleanWard",
+   "Cosmetics.Source.ItemShop"
+   ],
+   "metaTags": null,
+   "showcaseVideo": null,
+   "dynamicPakId": null,
+   "displayAssetPath": null,
+   "definitionPath": "FortniteGame/Content/Athena/Items/Weapons/Weapon_Pickaxe_VectorSpark",
+   "path": "FortniteGame/Content/Athena/Items/Cosmetics/PickAxes/Pickaxe_VectorSpark",
+   "added": "2023-08-08T08:00:00Z",
+   "shopHistory": [
+   "2023-08-08T00:00:00Z",
+   "2023-08-09T00:00:00Z",
+   "2023-08-10T00:00:00Z",
+   "2023-08-11T00:00:00Z",
+   "2023-08-12T00:00:00Z",
+   "2023-08-13T00:00:00Z",
+   "2023-08-14T00:00:00Z"
+   ]
+   },
+   {
+   "id": "Spray_Event_DD",
+   "name": "Ladrido de Kon",
+   "description": "Deja tu marca.",
+   "type": {
+   "value": "spray",
+   "displayValue": "Grafiti",
+   "backendValue": "AthenaSpray"
+   },
+   "rarity": {
+   "value": "uncommon",
+   "displayValue": "Poco común",
+   "backendValue": "EFortRarity::Uncommon"
+   },
+   "series": null,
+   "set": {
+   "value": "Jujutsu Kaisen",
+   "text": "Parte del conjunto Jujutsu Kaisen.",
+   "backendValue": "CleanWard"
+   },
+   "introduction": {
+   "chapter": "4",
+   "season": "3",
+   "text": "Introducido en Capítulo 4 - Temporada 3.",
+   "backendValue": 25
+   },
+   "images": {
+   "smallIcon": "https://fortnite-api.com/images/cosmetics/br/spray_event_dd/smallicon.png",
+   "icon": "https://fortnite-api.com/images/cosmetics/br/spray_event_dd/icon.png",
+   "featured": null,
+   "other": {
+   "decal": "https://fortnite-api.com/images/cosmetics/br/spray_event_dd/decal.png"
+   }
+   },
+   "variants": null,
+   "searchTags": null,
+   "gameplayTags": [
+   "Cosmetics.EmoteType.Spray",
+   "Cosmetics.Filter.Season.25",
+   "Cosmetics.Set.CleanWard"
+   ],
+   "metaTags": null,
+   "showcaseVideo": null,
+   "dynamicPakId": null,
+   "displayAssetPath": null,
+   "definitionPath": null,
+   "path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/Spray_Event_DD",
+   "added": "2023-08-11T14:36:17Z",
+   "shopHistory": null
+   },
+   {
+   "id": "Spray_Event_Y",
+   "name": "Maldición de Yuji",
+   "description": "Deja tu marca.",
+   "type": {
+   "value": "spray",
+   "displayValue": "Grafiti",
+   "backendValue": "AthenaSpray"
+   },
+   "rarity": {
+   "value": "uncommon",
+   "displayValue": "Poco común",
+   "backendValue": "EFortRarity::Uncommon"
+   },
+   "series": null,
+   "set": {
+   "value": "Jujutsu Kaisen",
+   "text": "Parte del conjunto Jujutsu Kaisen.",
+   "backendValue": "CleanWard"
+   },
+   "introduction": {
+   "chapter": "4",
+   "season": "3",
+   "text": "Introducido en Capítulo 4 - Temporada 3.",
+   "backendValue": 25
+   },
+   "images": {
+   "smallIcon": "https://fortnite-api.com/images/cosmetics/br/spray_event_y/smallicon.png",
+   "icon": "https://fortnite-api.com/images/cosmetics/br/spray_event_y/icon.png",
+   "featured": null,
+   "other": {
+   "decal": "https://fortnite-api.com/images/cosmetics/br/spray_event_y/decal.png"
+   }
+   },
+   "variants": null,
+   "searchTags": null,
+   "gameplayTags": [
+   "Cosmetics.EmoteType.Spray",
+   "Cosmetics.Filter.Season.25",
+   "Cosmetics.Set.CleanWard"
+   ],
+   "metaTags": null,
+   "showcaseVideo": null,
+   "dynamicPakId": null,
+   "displayAssetPath": null,
+   "definitionPath": null,
+   "path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/Spray_Event_Y",
+   "added": "2023-08-11T14:36:17Z",
+   "shopHistory": null
+   },
+   {
+   "id": "Spray_RainbowRoyale",
+   "name": "Victoria armoniosa",
+   "description": "Deja tu marca.",
+   "type": {
+   "value": "spray",
+   "displayValue": "Grafiti",
+   "backendValue": "AthenaSpray"
+   },
+   "rarity": {
+   "value": "uncommon",
+   "displayValue": "Poco común",
+   "backendValue": "EFortRarity::Uncommon"
+   },
+   "series": null,
+   "set": {
+   "value": "Reina de la playa",
+   "text": "Parte del conjunto Reina de la playa.",
+   "backendValue": "QueenOcean"
+   },
+   "introduction": {
+   "chapter": "4",
+   "season": "3",
+   "text": "Introducido en Capítulo 4 - Temporada 3.",
+   "backendValue": 25
+   },
+   "images": {
+   "smallIcon": "https://fortnite-api.com/images/cosmetics/br/spray_rainbowroyale/smallicon.png",
+   "icon": "https://fortnite-api.com/images/cosmetics/br/spray_rainbowroyale/icon.png",
+   "featured": "https://fortnite-api.com/images/cosmetics/br/spray_rainbowroyale/featured.png",
+   "other": {
+   "decal": "https://fortnite-api.com/images/cosmetics/br/spray_rainbowroyale/decal.png"
+   }
+   },
+   "variants": null,
+   "searchTags": null,
+   "gameplayTags": [
+   "Cosmetics.EmoteType.Spray",
+   "Cosmetics.Filter.Season.25",
+   "Cosmetics.Set.QueenOcean"
+   ],
+   "metaTags": null,
+   "showcaseVideo": null,
+   "dynamicPakId": null,
+   "displayAssetPath": null,
+   "definitionPath": null,
+   "path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/Spray_RainbowRoyale",
+   "added": "2023-08-11T14:36:17Z",
+   "shopHistory": null
+   },
+   {
+   "id": "Spray_RainbowRoyale2",
+   "name": "Conejitos arcoíris",
+   "description": "Deja tu marca.",
+   "type": {
+   "value": "spray",
+   "displayValue": "Grafiti",
+   "backendValue": "AthenaSpray"
+   },
+   "rarity": {
+   "value": "uncommon",
+   "displayValue": "Poco común",
+   "backendValue": "EFortRarity::Uncommon"
+   },
+   "series": null,
+   "set": {
+   "value": "Reina de la playa",
+   "text": "Parte del conjunto Reina de la playa.",
+   "backendValue": "QueenOcean"
+   },
+   "introduction": {
+   "chapter": "4",
+   "season": "3",
+   "text": "Introducido en Capítulo 4 - Temporada 3.",
+   "backendValue": 25
+   },
+   "images": {
+   "smallIcon": "https://fortnite-api.com/images/cosmetics/br/spray_rainbowroyale2/smallicon.png",
+   "icon": "https://fortnite-api.com/images/cosmetics/br/spray_rainbowroyale2/icon.png",
+   "featured": "https://fortnite-api.com/images/cosmetics/br/spray_rainbowroyale2/featured.png",
+   "other": {
+   "decal": "https://fortnite-api.com/images/cosmetics/br/spray_rainbowroyale2/decal.png"
+   }
+   },
+   "variants": null,
+   "searchTags": null,
+   "gameplayTags": [
+   "Cosmetics.EmoteType.Spray",
+   "Cosmetics.Filter.Season.25",
+   "Cosmetics.Set.QueenOcean"
+   ],
+   "metaTags": null,
+   "showcaseVideo": null,
+   "dynamicPakId": null,
+   "displayAssetPath": null,
+   "definitionPath": null,
+   "path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/Spray_RainbowRoyale2",
+   "added": "2023-08-11T14:36:17Z",
+   "shopHistory": null
+   },
+   {
+   "id": "Spray_StarStrayFN",
+   "name": "Brillo deslumbrante",
+   "description": "Deja tu marca.",
+   "type": {
+   "value": "spray",
+   "displayValue": "Grafiti",
+   "backendValue": "AthenaSpray"
+   },
+   "rarity": {
+   "value": "uncommon",
+   "displayValue": "Poco común",
+   "backendValue": "EFortRarity::Uncommon"
+   },
+   "series": null,
+   "set": {
+   "value": "Ritmos de ensueño",
+   "text": "Parte del conjunto Ritmos de ensueño.",
+   "backendValue": "FuzzySleeps"
+   },
+   "introduction": {
+   "chapter": "4",
+   "season": "3",
+   "text": "Introducido en Capítulo 4 - Temporada 3.",
+   "backendValue": 25
+   },
+   "images": {
+   "smallIcon": "https://fortnite-api.com/images/cosmetics/br/spray_starstrayfn/smallicon.png",
+   "icon": "https://fortnite-api.com/images/cosmetics/br/spray_starstrayfn/icon.png",
+   "featured": null,
+   "other": {
+   "decal": "https://fortnite-api.com/images/cosmetics/br/spray_starstrayfn/decal.png"
+   }
+   },
+   "variants": null,
+   "searchTags": null,
+   "gameplayTags": [
+   "Cosmetics.EmoteType.Spray",
+   "Cosmetics.Filter.Season.25",
+   "Cosmetics.Set.FuzzySleeps"
+   ],
+   "metaTags": null,
+   "showcaseVideo": null,
+   "dynamicPakId": null,
+   "displayAssetPath": null,
+   "definitionPath": null,
+   "path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/Spray_StarStrayFN",
+   "added": "2023-08-11T14:36:17Z",
+   "shopHistory": null
+   },
+   {
+   "id": "Spray_Tournament_YB",
+   "name": "Entrenamiento de Yuji",
+   "description": "Deja tu marca.",
+   "type": {
+   "value": "spray",
+   "displayValue": "Grafiti",
+   "backendValue": "AthenaSpray"
+   },
+   "rarity": {
+   "value": "uncommon",
+   "displayValue": "Poco común",
+   "backendValue": "EFortRarity::Uncommon"
+   },
+   "series": null,
+   "set": {
+   "value": "Jujutsu Kaisen",
+   "text": "Parte del conjunto Jujutsu Kaisen.",
+   "backendValue": "CleanWard"
+   },
+   "introduction": {
+   "chapter": "4",
+   "season": "3",
+   "text": "Introducido en Capítulo 4 - Temporada 3.",
+   "backendValue": 25
+   },
+   "images": {
+   "smallIcon": "https://fortnite-api.com/images/cosmetics/br/spray_tournament_yb/smallicon.png",
+   "icon": "https://fortnite-api.com/images/cosmetics/br/spray_tournament_yb/icon.png",
+   "featured": null,
+   "other": {
+   "decal": "https://fortnite-api.com/images/cosmetics/br/spray_tournament_yb/decal.png"
+   }
+   },
+   "variants": null,
+   "searchTags": null,
+   "gameplayTags": [
+   "Cosmetics.EmoteType.Spray",
+   "Cosmetics.Filter.Season.25",
+   "Cosmetics.Set.CleanWard"
+   ],
+   "metaTags": null,
+   "showcaseVideo": null,
+   "dynamicPakId": null,
+   "displayAssetPath": null,
+   "definitionPath": null,
+   "path": "FortniteGame/Content/Athena/Items/Cosmetics/Sprays/Spray_Tournament_YB",
+   "added": "2023-08-11T14:36:17Z",
+   "shopHistory": null
+   },
+   {
+   "id": "Wrap_BirdNest",
+   "name": "Emblema de Jujutsu Kaisen",
+   "description": "Demuestra tu estilo.",
+   "type": {
+   "value": "wrap",
+   "displayValue": "Envoltorio",
+   "backendValue": "AthenaItemWrap"
+   },
+   "rarity": {
+   "value": "uncommon",
+   "displayValue": "Poco común",
+   "backendValue": "EFortRarity::Uncommon"
+   },
+   "series": null,
+   "set": {
+   "value": "Jujutsu Kaisen",
+   "text": "Parte del conjunto Jujutsu Kaisen.",
+   "backendValue": "CleanWard"
+   },
+   "introduction": {
+   "chapter": "4",
+   "season": "3",
+   "text": "Introducido en Capítulo 4 - Temporada 3.",
+   "backendValue": 25
+   },
+   "images": {
+   "smallIcon": "https://fortnite-api.com/images/cosmetics/br/wrap_birdnest/smallicon.png",
+   "icon": "https://fortnite-api.com/images/cosmetics/br/wrap_birdnest/icon.png",
+   "featured": "https://fortnite-api.com/images/cosmetics/br/wrap_birdnest/featured.png",
+   "other": null
+   },
+   "variants": null,
+   "searchTags": null,
+   "gameplayTags": [
+   "Cosmetics.Filter.Season.25",
+   "Cosmetics.UserFacingFlags.Wrap.Animated",
+   "Cosmetics.Set.CleanWard",
+   "Cosmetics.Source.Event.Engagement.Free"
+   ],
+   "metaTags": null,
+   "showcaseVideo": null,
+   "dynamicPakId": null,
+   "displayAssetPath": null,
+   "definitionPath": null,
+   "path": "FortniteGame/Content/Athena/Items/Cosmetics/ItemWraps/Wrap_BirdNest",
+   "added": "2023-08-11T14:36:17Z",
+   "shopHistory": null
+   },
+   {
+   "id": "Wrap_RainbowClouds",
+   "name": "Colores armoniosos",
+   "description": "Demuestra tu estilo.",
+   "type": {
+   "value": "wrap",
+   "displayValue": "Envoltorio",
+   "backendValue": "AthenaItemWrap"
+   },
+   "rarity": {
+   "value": "uncommon",
+   "displayValue": "Poco común",
+   "backendValue": "EFortRarity::Uncommon"
+   },
+   "series": null,
+   "set": {
+   "value": "Reina de la playa",
+   "text": "Parte del conjunto Reina de la playa.",
+   "backendValue": "QueenOcean"
+   },
+   "introduction": {
+   "chapter": "4",
+   "season": "3",
+   "text": "Introducido en Capítulo 4 - Temporada 3.",
+   "backendValue": 25
+   },
+   "images": {
+   "smallIcon": "https://fortnite-api.com/images/cosmetics/br/wrap_rainbowclouds/smallicon.png",
+   "icon": "https://fortnite-api.com/images/cosmetics/br/wrap_rainbowclouds/icon.png",
+   "featured": "https://fortnite-api.com/images/cosmetics/br/wrap_rainbowclouds/featured.png",
+   "other": null
+   },
+   "variants": null,
+   "searchTags": null,
+   "gameplayTags": [
+   "Cosmetics.Filter.Season.25",
+   "Cosmetics.Source.ItemShop",
+   "Cosmetics.Set.QueenOcean"
+   ],
+   "metaTags": null,
+   "showcaseVideo": null,
+   "dynamicPakId": null,
+   "displayAssetPath": null,
+   "definitionPath": null,
+   "path": "FortniteGame/Content/Athena/Items/Cosmetics/ItemWraps/Wrap_RainbowClouds",
+   "added": "2023-08-11T14:36:17Z",
+   "shopHistory": null
+   },
+   {
+   "id": "Wrap_RoosterMelt",
+   "name": "Flujo de energía maldita",
+   "description": "Demuestra tu estilo.",
+   "type": {
+   "value": "wrap",
+   "displayValue": "Envoltorio",
+   "backendValue": "AthenaItemWrap"
+   },
+   "rarity": {
+   "value": "rare",
+   "displayValue": "Raro",
+   "backendValue": "EFortRarity::Rare"
+   },
+   "series": null,
+   "set": {
+   "value": "Jujutsu Kaisen",
+   "text": "Parte del conjunto Jujutsu Kaisen.",
+   "backendValue": "CleanWard"
+   },
+   "introduction": {
+   "chapter": "4",
+   "season": "3",
+   "text": "Introducido en Capítulo 4 - Temporada 3.",
+   "backendValue": 25
+   },
+   "images": {
+   "smallIcon": "https://fortnite-api.com/images/cosmetics/br/wrap_roostermelt/smallicon.png",
+   "icon": "https://fortnite-api.com/images/cosmetics/br/wrap_roostermelt/icon.png",
+   "featured": null,
+   "other": null
+   },
+   "variants": null,
+   "searchTags": null,
+   "gameplayTags": [
+   "Cosmetics.Filter.Season.25",
+   "Cosmetics.UserFacingFlags.Wrap.Animated",
+   "Cosmetics.UserFacingFlags.Reactive.WeaponFire",
+   "Cosmetics.Set.CleanWard",
+   "Cosmetics.Source.Event.Engagement.Paid"
+   ],
+   "metaTags": null,
+   "showcaseVideo": null,
+   "dynamicPakId": null,
+   "displayAssetPath": null,
+   "definitionPath": null,
+   "path": "FortniteGame/Content/Athena/Items/Cosmetics/ItemWraps/Wrap_RoosterMelt",
+   "added": "2023-08-11T14:36:17Z",
+   "shopHistory": null
+   },
+   {
+   "id": "Wrap_Slipstream",
+   "name": "Destructor espacial",
+   "description": "Demuestra tu estilo.",
+   "type": {
+   "value": "wrap",
+   "displayValue": "Envoltorio",
+   "backendValue": "AthenaItemWrap"
+   },
+   "rarity": {
+   "value": "rare",
+   "displayValue": "Raro",
+   "backendValue": "EFortRarity::Rare"
+   },
+   "series": null,
+   "set": null,
+   "introduction": {
+   "chapter": "4",
+   "season": "3",
+   "text": "Introducido en Capítulo 4 - Temporada 3.",
+   "backendValue": 25
+   },
+   "images": {
+   "smallIcon": "https://fortnite-api.com/images/cosmetics/br/wrap_slipstream/smallicon.png",
+   "icon": "https://fortnite-api.com/images/cosmetics/br/wrap_slipstream/icon.png",
+   "featured": null,
+   "other": null
+   },
+   "variants": null,
+   "searchTags": null,
+   "gameplayTags": [
+   "Cosmetics.Filter.Season.25",
+   "Cosmetics.UserFacingFlags.Wrap.Animated",
+   "Cosmetics.UserFacingFlags.Reactive.WeaponFire",
+   "Cosmetics.Source.ItemShop"
+   ],
+   "metaTags": null,
+   "showcaseVideo": null,
+   "dynamicPakId": null,
+   "displayAssetPath": null,
+   "definitionPath": null,
+   "path": "FortniteGame/Content/Athena/Items/Cosmetics/ItemWraps/Wrap_Slipstream",
+   "added": "2023-08-11T14:36:17Z",
+   "shopHistory": null
+   }
+   ]
+   }
+   }

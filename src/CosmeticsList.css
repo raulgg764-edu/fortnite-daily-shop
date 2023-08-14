@@ -1,0 +1,34 @@
+
+
+.cosmetics-list{
+    --n:6;
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(max(200px,(100% - (var(--n) - 1)*32px)/var(--n)), 1fr));
+    gap: 32px;
+    margin: 2rem;
+    max-width: 1600px;
+}
+
+.itemSlot{
+    display: flex;
+    background-color: rgb(32, 32, 32);
+    border-radius: 16px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.itemName{
+    font-size: 20px;
+    font-weight: 600;
+    padding: 0.5rem;
+    color: white;
+    text-align: center;
+}
+
+.itemImage{
+    object-fit:cover;
+    max-width: 100%;
+    height: auto;
+}

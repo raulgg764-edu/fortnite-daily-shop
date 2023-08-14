@@ -1,0 +1,86 @@
+
+
+
+.shop{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.shopSection {
+    margin: 1rem;
+
+    & h2{
+        color: white;
+        margin: 1rem 0 ;
+        font-size: 32px;
+        font-style: italic;
+    }
+
+}
+
+.shopList{
+    --n:6;
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(max(200px,(100% - (var(--n) - 1)*32px)/var(--n)), 1fr));
+    gap: 32px;
+}
+
+.itemSlot{
+    display: flex;
+    background-color: rgb(32, 32, 32);
+    border-radius: 16px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: fn;
+  
+    -webkit-box-shadow: inset 0px 0px 77px 15px rgba(0,0,0,0.71);
+-moz-box-shadow: inset 0px 0px 77px 15px rgba(0,0,0,0.71);
+box-shadow: inset 0px 0px 77px 15px rgba(0,0,0,0.71);
+
+
+}
+
+.itemHeader{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0.5rem;
+    border-radius: 16px;
+    background: linear-gradient(rgba(0,0,0,0.71),transparent);
+}
+
+.itemName{
+    font-weight: 600;
+    color: white;
+    text-align: center;
+}
+
+.itemImage{
+    object-fit:cover;
+    max-width: 100%;
+    height: auto;
+}
+
+.itemPriceSection{
+    padding: 1rem;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 16px;
+    background: linear-gradient(transparent,rgba(0,0,0,0.71));
+}
+
+.itemPrice{
+    color: white;
+    font-size: 20px;
+}
+
+.coin{
+    width: 20px;
+    height: auto;
+    margin: 0 5px;
+}
