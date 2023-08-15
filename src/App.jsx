@@ -1,7 +1,6 @@
 import { TimerStore } from './TimerStore'
 import { Shop } from './Shop'
-import './cosmeticsList.css'
-import './app.css'
+import './App.css'
 //import {data} from './mocks/fortnite-data.json'
 
 //const items=data.items;
