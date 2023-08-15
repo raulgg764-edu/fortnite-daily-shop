@@ -31,7 +31,7 @@ function App() {
         <h1>Fortnite Daily Shop 🛒</h1>
       </header>
       <main>
-        {/*<CosmeticsList></CosmeticsList>*/}
+       
         <TimerStore></TimerStore>
         <Shop></Shop>
       </main>
