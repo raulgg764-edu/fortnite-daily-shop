@@ -1,3 +1,4 @@
+import { TimerStore } from './TimerStore'
 import { Shop } from './Shop'
 import './cosmeticsList.css'
 import './app.css'
@@ -26,11 +27,12 @@ function App() {
 
   return (
     <div className='page'>
-      <header>
+      <header className='title'>
         <h1>Fortnite Daily Shop 🛒</h1>
       </header>
       <main>
         {/*<CosmeticsList></CosmeticsList>*/}
+        <TimerStore></TimerStore>
         <Shop></Shop>
       </main>
     </div>

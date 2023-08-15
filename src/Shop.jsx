@@ -1,9 +1,9 @@
-import {shop, currentRotation} from './mocks/fortnite-shop.json' 
+//import {shop, currentRotation} from './mocks/fortnite-shop.json'
 import {rarities} from './rarities.js'
 import vbuck from './assets/vbuck.png'
 import './Shop.css'
-import { useState } from 'react'
-import { useEffect } from 'react'
+import { useState,useEffect } from 'react'
+
 
 export function Shop(){
     
@@ -11,14 +11,14 @@ export function Shop(){
     const [updateRotation, setUpdateRotation]=useState();
 
     useEffect(()=>{
-        /*fetch('https://fortniteapi.io/v2/shop?lang=en',{headers:{'Authorization':'bd754f4c-ffaf2970-866589c7-70abedf7'}}).
+        fetch('https://fortniteapi.io/v2/shop?lang=en',{headers:{'Authorization':'bd754f4c-ffaf2970-866589c7-70abedf7'}}).
         then(res=>res.json()).
         then( response =>{
             setUpdateStore(response.shop);
             setUpdateRotation(response.currentRotation)
-        })*/
-        setUpdateStore(shop)
-        setUpdateRotation(currentRotation)
+        })
+        /*setUpdateStore(shop)
+        setUpdateRotation(currentRotation)*/
     },[]);
 
     //const shopSections=updateRotation;

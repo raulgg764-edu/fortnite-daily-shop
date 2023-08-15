@@ -1,6 +1,4 @@
 
-
-
 .shop{
     display: flex;
     flex-direction: column;
@@ -35,10 +33,11 @@
     align-items: center;
     justify-content: center;
     font-family: fn;
+    
   
     -webkit-box-shadow: inset 0px 0px 77px 15px rgba(0,0,0,0.71);
--moz-box-shadow: inset 0px 0px 77px 15px rgba(0,0,0,0.71);
-box-shadow: inset 0px 0px 77px 15px rgba(0,0,0,0.71);
+    -moz-box-shadow: inset 0px 0px 77px 15px rgba(0,0,0,0.71);
+    box-shadow: inset 0px 0px 77px 15px rgba(0,0,0,0.71);
 
 
 }
@@ -76,7 +75,7 @@ box-shadow: inset 0px 0px 77px 15px rgba(0,0,0,0.71);
 
 .itemPrice{
     color: white;
-    font-size: 20px;
+    font-size: 25px;
 }
 
 .coin{
@@ -84,3 +83,4 @@ box-shadow: inset 0px 0px 77px 15px rgba(0,0,0,0.71);
     height: auto;
     margin: 0 5px;
 }
+
