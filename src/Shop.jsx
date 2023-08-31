@@ -1,35 +1,17 @@
-/*import {shop, currentRotation} from './mocks/fortnite-shop.json'*/
 import {rarities} from './rarities.js'
 import vbuck from './assets/vbuck.png'
 import './Shop.css'
-import { useState,useEffect } from 'react'
-
+import { useStore } from './hooks/useStore'
 
 export function Shop(){
     
-    const [updateStore, setUpdateStore]=useState({});
-    const [updateRotation, setUpdateRotation]=useState({});
-
-    useEffect(()=>{
-        
-        fetch('https://fortniteapi.io/v2/shop?lang=en',{headers:{'Authorization':'bd754f4c-ffaf2970-866589c7-70abedf7'}}).
-        then(res=>res.json()).
-        then( response =>{
-            setUpdateStore(response.shop);
-            setUpdateRotation(response.currentRotation)
-        })
-        /*setUpdateStore(shop)
-        setUpdateRotation(currentRotation)*/
-    },[]);
-
-    //const shopSections=updateRotation;
-
-    //shopSections.LimitedTime=shopSections.Daily;
+    const [updateRotation, updateStore, loading] = useStore();
 
     return (
         <div className='shop'>
-            {
-                updateRotation && Object.keys(updateRotation).map((sections)=>(
+            {  loading ? <div className='loading'>Loading...</div> 
+            //not loading
+            :updateRotation && Object.keys(updateRotation).map((sections)=>(
                     <section key={sections} className='shopSection'>
                     <h2>{sections}</h2>
                         <ul className='shopList'>
@@ -44,9 +26,9 @@ export function Shop(){
                                     <header className='itemHeader'>
                                         <p className='itemName'>{items.displayName}</p>
                                     </header>
-                                    <img src={items.displayAssets[0].url} alt={items.displayName} className='itemImage' loading='lazy'/>
+                                    <img src={items.displayAssets[0].url} alt={items.displayName} className='itemImage'/>
                                     <footer className='itemPriceSection'>
-                                        <p className='itemPrice'>{items.price.finalPrice}</p><img className='coin' src={vbuck}></img>
+                                        <p className='itemPrice'>{items.price.finalPrice}</p><img className='coin' src={vbuck} alt='vbuck image'></img>
                                     </footer>
                                 </li>
                                )
@@ -55,7 +37,7 @@ export function Shop(){
                         </ul>
                     </section>
                 ))
-                    }
+            }
         </div>
     )
 }
