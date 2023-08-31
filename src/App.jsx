@@ -27,13 +27,14 @@ function App() {
   return (
     <div className='page'>
       <header className='title'>
-        <h1>Fortnite Daily Shop 🛒</h1>
+        <h1>Fortnite Daily Item Shop 🛒</h1>
       </header>
       <main>
        
         <TimerStore></TimerStore>
         <Shop></Shop>
       </main>
+      <footer className='principal-footer'>Made by <a target='_blank' rel='noreferrer' href='https://github.com/raulgg764-edu'>RaulGG764🚀</a></footer>
     </div>
   )
 }

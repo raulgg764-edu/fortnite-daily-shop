@@ -31,3 +31,14 @@ h1{
     color: white;
     font-size: 48px;
 }
+
+.principal-footer{
+    color: white;
+    margin-bottom: 1rem;
+    & a, a:active{
+        
+        color: rgb(194, 226, 245);
+        text-decoration: none;
+    }
+
+}
