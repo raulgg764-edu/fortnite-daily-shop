@@ -70,6 +70,6 @@ export function TimerStore(){
     
 
     return (
-        <span className="timer">{timerStore}⌚</span>
+        <span className="timer">Resets in {timerStore}🕐</span>
     )
 }
