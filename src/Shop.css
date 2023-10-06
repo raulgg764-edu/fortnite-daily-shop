@@ -33,7 +33,7 @@
     align-items: center;
     justify-content: center;
     font-family: fn;
-    
+    cursor: pointer;
   
     -webkit-box-shadow: inset 0px 0px 77px 15px rgba(0,0,0,0.71);
     -moz-box-shadow: inset 0px 0px 77px 15px rgba(0,0,0,0.71);

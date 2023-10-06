@@ -2,13 +2,22 @@ import {rarities} from './rarities.js'
 import vbuck from './assets/vbuck.png'
 import './Shop.css'
 import { useStore } from './hooks/useStore'
+import { useState } from 'react';
+import { ItemDetails } from './components/ItemDetails.jsx';
+
 
 export function Shop(){
     
     const [updateRotation, updateStore, loading] = useStore();
+    const [visibleModal,setVisibleModal]= useState(false);
+
+    const showModal=()=>{
+        setVisibleModal(!visibleModal);
+    }
 
     return (
         <div className='shop'>
+            
             {  loading ? <div className='loading'>Loading...</div> 
             //not loading
             :updateRotation && Object.keys(updateRotation).map((sections)=>(
@@ -22,7 +31,7 @@ export function Shop(){
 
                                if(items.section.id===sections||items.section===undefined)
                                return (
-                                <li className='itemSlot' key={items.mainId} style={{backgroundImage:`url(${rarities[itemRarity]})`}}>
+                                <li onClick={()=> {showModal()}} className='itemSlot' key={items.mainId} style={{backgroundImage:`url(${rarities[itemRarity]})`}}>
                                     <header className='itemHeader'>
                                         <p className='itemName'>{items.displayName}</p>
                                     </header>
@@ -38,6 +47,7 @@ export function Shop(){
                     </section>
                 ))
             }
+            <ItemDetails show={visibleModal}></ItemDetails>
         </div>
     )
 }

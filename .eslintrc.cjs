@@ -17,7 +17,7 @@ module.exports = {
       'warn',
       { allowConstantExport: true },
     ],
-    "no-unused-vars":["error",{"ignoreRestSiblings":true}]
+    "no-unused-vars":["error",{"ignoreRestSiblings":true, "react/prop-types": 0}]
     
   },
 }
