@@ -26,6 +26,7 @@
 }
 
 .itemSlot{
+    overflow: hidden;
     display: flex;
     background-color: rgb(32, 32, 32);
     border-radius: 16px;
@@ -33,13 +34,20 @@
     align-items: center;
     justify-content: center;
     font-family: fn;
-    
+    cursor: pointer;
+    transition-property: border;
+    transition: ease-in-out 0.2s;
   
     -webkit-box-shadow: inset 0px 0px 77px 15px rgba(0,0,0,0.71);
     -moz-box-shadow: inset 0px 0px 77px 15px rgba(0,0,0,0.71);
     box-shadow: inset 0px 0px 77px 15px rgba(0,0,0,0.71);
 
-
+    &:hover{
+        & img{
+            transform: scale(1.1);
+        }
+        border: 4px solid #fff;
+    }
 }
 
 .itemHeader{
@@ -60,10 +68,13 @@
 }
 
 .itemImage{
+    
     object-fit:cover;
     max-width: 100%;
     height: auto;
     width: 100%;
+    aspect-ratio: 2/2;
+    transition: all ease-in-out 0.3s;
 }
 
 .itemPriceSection{
@@ -85,6 +96,14 @@
     width: 20px;
     height: auto;
     margin: 0 5px;
+}
+
+.loading{
+    font-size: 36px;
+    font-weight: 500;
+    color: #fff;
+    margin: auto;
+    height: 80vh;
 }
 
 @media screen and (max-width:460px) {
