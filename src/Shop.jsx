@@ -10,32 +10,34 @@ export function Shop(){
     
     const [updateRotation, updateStore, loading] = useStore();
     const [visibleModal,setVisibleModal]= useState(false);
+    const [clickedItem, setClickedItem] = useState()
 
     const showModal=()=>{
         setVisibleModal(!visibleModal);
     }
 
     return (
+        
         <div className='shop'>
             
             {  loading ? <div className='loading'>Loading...</div> 
             //not loading
-            :updateRotation && Object.keys(updateRotation).map((sections)=>(
-                    <section key={sections} className='shopSection'>
-                    <h2>{sections}</h2>
+            :updateRotation && updateRotation.map((sections)=>(
+                    <section key={sections.id} className='shopSection'>
+                    <h2>{sections.name}</h2>
                         <ul className='shopList'>
                         {
                             updateStore.map((items)=>{
 
                                 const itemRarity = items.series===null?items.rarity.id:items.series.id
 
-                               if(items.section.id===sections||items.section===undefined)
+                               if(items.section.id===sections.id||items.section===undefined)
                                return (
-                                <li onClick={()=> {showModal()}} className='itemSlot' key={items.mainId} style={{backgroundImage:`url(${rarities[itemRarity]})`}}>
+                                <li onClick={()=> {showModal(); setClickedItem(items.mainId)}} className='itemSlot' key={items.mainId} style={{backgroundImage:`url(${rarities[itemRarity]})`}}>
                                     <header className='itemHeader'>
                                         <p className='itemName'>{items.displayName}</p>
                                     </header>
-                                    <img src={items.displayAssets[0].url} alt={items.displayName} className='itemImage'/>
+                                    <img width={1000} height={1000} src={items.displayAssets[0].url} alt={items.displayName} className='itemImage'/>
                                     <footer className='itemPriceSection'>
                                         <p className='itemPrice'>{items.price.finalPrice}</p><img className='coin' src={vbuck} alt='vbuck image'></img>
                                     </footer>
@@ -47,7 +49,7 @@ export function Shop(){
                     </section>
                 ))
             }
-            <ItemDetails show={visibleModal}></ItemDetails>
+            <ItemDetails clickedItem={clickedItem} visible={visibleModal} visibleFunction={setVisibleModal}></ItemDetails>
         </div>
     )
 }
