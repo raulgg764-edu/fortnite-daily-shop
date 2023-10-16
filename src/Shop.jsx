@@ -1,10 +1,10 @@
+
 import {rarities} from './rarities.js'
 import vbuck from './assets/vbuck.png'
 import './Shop.css'
 import { useStore } from './hooks/useStore'
 import { useState } from 'react';
 import { ItemDetails } from './components/ItemDetails.jsx';
-
 
 export function Shop(){
     
