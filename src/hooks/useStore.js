@@ -16,9 +16,9 @@ export function useStore(){
         
         try{
             setLoading(true);
-           /* const data = await fetch('https://fortniteapi.io/v2/shop?lang=en',{headers:{'Authorization':'bd754f4c-ffaf2970-866589c7-70abedf7'}}).
-            then(res=>res.json());*/
-            const data = await {shop};
+           const data = await fetch('https://fortniteapi.io/v2/shop?lang=en',{headers:{'Authorization':'bd754f4c-ffaf2970-866589c7-70abedf7'}}).
+            then(res=>res.json());
+            /*const data = await {shop};*/
             setUpdateStore(data.shop);
 
             const allSections = data.shop.map((item)=>{
