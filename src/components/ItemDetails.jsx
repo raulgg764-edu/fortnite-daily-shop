@@ -38,7 +38,7 @@ export function ItemDetails({visible,visibleFunction, clickedItem}){
                         </section>
                         
                         <div className='img-container'>
-                            <img width={600} height={600} className='card-img' src={showItem.displayAssets[0].background} alt={showItem.name} />
+                            <img width={600} height={600} className='card-img' src={showItem.displayAssets[0].url} alt={showItem.name} />
                         </div>
                     </section>
                     <section className='card-details'>

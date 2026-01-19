@@ -70,6 +70,6 @@ export function TimerStore(){
     
 
     return (
-        <span className="timer">Resets in {timerStore}🕐</span>
+        <span className="timer">Api got discontinued, data is provided by a file for archive {timerStore}🙁</span>
     )
 }
